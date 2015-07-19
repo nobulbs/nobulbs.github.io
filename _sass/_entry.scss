@@ -1,0 +1,116 @@
+@media screen, projection {
+
+    .entry-header {
+    	margin-bottom: $single-line;
+    }
+
+    .entry-title {
+    	font-size: 1em;
+    	line-height: 1.2em;
+        color: $black;
+    }
+
+    .entry-meta {
+    	font-size: 0.889em;
+    	font-style: italic;
+    	margin-bottom: $single-line;
+    }
+
+    .entry-content {
+    	padding-bottom: $single-line;
+    }
+
+    .entry-content a:link {
+    	color: $link;
+    }
+
+    .entry-content a:visited {
+    	color: $visited;
+    }
+
+    .entry-content a:hover,
+    .entry-content a:active,
+    .entry-content a:focus {
+    	color: $hover;
+    }
+
+    .entry-content a.imglink {
+    	border: none;
+    	color: #FFF;
+    }
+
+    .entry-content p,
+    .entry-content ul,
+    .entry-content ol,
+    .entry-content dd {
+    	margin-bottom: $half-line;
+    	hyphens: auto;
+    	-moz-hyphens: auto;
+    }
+
+    .entry-content li {
+    	margin-left: 1.25em;
+
+    	@media #{$bp} {
+    		margin-left: 0;
+    	}
+    }
+
+    .entry-content blockquote {
+    	margin-left: $single-line;
+    	line-height: 1.2em;
+    }
+
+    .entry-content h1,
+    .entry-content h2,
+    .entry-content h3,
+    .entry-content h4,
+    .entry-content dt {
+    	font-size: 1em;
+    	line-height: 1.2em;
+    	padding: $single-line 0 $half-line 0;
+        color: $grey;
+    }
+
+    .entry-content h3,
+    .entry-content dt {
+    	text-transform: lowercase;
+        font-variant: small-caps;
+        font-weight: normal;
+        letter-spacing: 1px;
+    }
+
+    .entry-content h4 {
+        font-weight: normal;
+        font-style: italic;
+    }
+
+    .entry-footer {
+    	padding: $half-line 0;
+    }
+
+    .entry-content hr,
+    #footer hr {
+    	width: 33%;
+    	margin: 0 auto $half-line auto;
+    	padding-top: $single-line;
+    	border: none;
+    	border-bottom: 1px dotted $grey;
+    }
+
+    .entry-content img {
+    	width: auto !important;
+    	max-width: 100% !important;
+    	height: auto !important;
+    	-webkit-box-sizing: border-box;
+    	-moz-box-sizing: border-box;
+    	box-sizing: border-box;
+    }
+
+
+    .figcaption {
+    	padding-bottom: $half-line;
+    	color: $grey;
+    }
+
+}

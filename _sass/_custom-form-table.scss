@@ -1,0 +1,38 @@
+@media screen, projection {
+
+    .form-custom {
+    	margin-bottom: $single-line;
+    }
+
+    .form-custom input {
+        font-family: $main-font;
+    }
+
+    .form-custom input[type="search"] {
+    	padding: $eighth-line;
+    	font-size: 1em;
+    	-webkit-box-sizing: border-box;
+    	-moz-box-sizing: border-box;
+    	box-sizing: border-box;
+    	width: 100%;
+    	display: block;
+    	margin-bottom: $quarter-line;
+    	font-family: $main-font;
+    	border-radius: 0.2em;
+
+    	@media #{$bp} {
+    		width: 75%;
+    		display: inline;
+    		margin-bottom: 0;
+            padding: $quarter-line;
+            margin-bottom: $quarter-line;
+    	}
+
+    }
+
+    .table-custom {
+    	margin-bottom: $single-line;
+    }
+
+
+}

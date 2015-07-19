@@ -1,0 +1,16 @@
+@media screen, projection {
+
+.wrapper {
+	max-width: 28em !important;
+	margin: 0 auto;
+}
+
+
+#footer {
+	padding: $half-line 0;
+	font-family: $secondary-font;
+	color: $grey;
+}
+
+
+}

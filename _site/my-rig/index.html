@@ -1,0 +1,259 @@
+<!doctype html>
+
+<html lang="en-gb">
+
+	<head>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>My rig &#8211; Getting started with Github Pages and Jekyll &#8211; Leon Paternoster</title>
+		
+
+		<!--[if lt IE 9]>
+    		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js">
+    	<![endif]-->
+
+		<link rel="canonical" href="http://www.nobulbs.com/my-rig/">
+		<link rel="stylesheet" href="http://yui.yahooapis.com/combo?pure/0.5.0/buttons-min.css&pure/0.5.0/forms-min.css&pure/0.5.0/tables-min.css">
+		<link rel="stylesheet" href="/css/main.css">
+		<link href="/feed" rel="alternate" type="application/rss+xml" title="Leon Paternoster">
+		<link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+
+		<script>
+			WebFontConfig = {
+			typekit: { id: 'yye2pxh' }
+			};
+
+			(function(d) {
+			var wf = d.createElement('script'), s = d.scripts[0];
+			wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.6/webfont.js';
+			s.parentNode.insertBefore(wf, s);
+			})(document);
+		</script>
+
+		<script src="/js/smooth.js"></script>
+
+	</head>
+
+	<body id="top">
+
+		<ul class="accessibility hide">
+
+			<li><a href="#content">Skip to content</a></li>
+
+		</ul>
+
+		<div class="top-bar">
+
+			
+
+				<div class="outer-wrapper">
+
+					<div class="wrapper">
+
+						<div class="logo text-centre"><a href="/"><img class="logo-img" src="/images/home-blue.svg" alt="Go to the home page" title="Go to the home page"></a></div>
+
+					</div> <!-- end .wrapper -->
+
+				</div> <!-- end .outer-wrapper -->
+
+			
+
+		</div>
+
+		<main id="content" role="main">
+
+			<div class="outer-wrapper">
+
+
+	<div class="wrapper page">
+
+		<article class="entry">
+
+			<div class="entry-header">
+
+				<h1 class="entry-title">My rig &#8211; Getting started with Github Pages and Jekyll</h1>
+
+			</div>
+
+			<div class="entry-content">
+
+				<p>Thought I’d share my current website set up and some links I used to get to this stage. If you’re a developer/coder probably all a bit <i>and?</i>, but if you’re in that generalist hinterland it might be of some use. Knowing Git, Jekyll and how to use a command line is very handy, basic stuff.</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<p>I have my website stored in a Dropbox folder on my PC. I use Jekyll to build the site and then push it to Github Pages to publish it. The only cost is the domain name.</p>
+
+<h2 id="jekyll">Jekyll</h2>
+
+<p><a href="http://jekyllrb.com/">Jekyll</a>’s a static site generator. This means your website is generated on your PC rather than on the server itself. Lots of advantages to this:</p>
+
+<ul>
+  <li>Your site serves flat HTML files (fast as there are no requests to a database)</li>
+  <li>Security (there’s no database to hack)</li>
+  <li>Portable (static site generators make HTML files: easy to copy, backup etc.)</li>
+  <li>No <abbr title="What you see is what you get">WYSIWYG</abbr> (so <abbr title="What you mark up is what you get">WYMIWYG</abbr> <em>what you mark up is what you get</em>). Use lovely <a href="http://daringfireball.net/projects/markdown/">Markdown</a> instead.</li>
+  <li>Workflow quick (command line more efficient than GUI)</li>
+</ul>
+
+<p>There are disadvantages:</p>
+
+<ul>
+  <li>No comments (because there’s no database to store them in), unless you use something like Disqus (yuck)</li>
+  <li>No writing and publishing on the go</li>
+  <li>Some technical knowledge required. The command line! If you’re on a Mac you’re in luck: Ruby and Ruby gems come preinstalled, if you’re not there’s a bit more work to do (especially in Linux).</li>
+</ul>
+
+<p>I also like <a href="http://hugo.spf13.com/">Hugo</a> a lot – it’s got some excellent features like archetypes, better taxonomies than Jekyll, simple installation and a smart, automatically generated site structure. I only chose Jekyll because it works so well with Github Pages (see below).</p>
+
+<h3 id="resources">Resources</h3>
+
+<ul>
+  <li><a href="https://github.com/benbalter/wordpress-to-jekyll-exporter">WordPress to Jekyll Exporter</a>. Makes it easy to move your content from WordPress into Jekyll (or any other static site generator).</li>
+  <li><a href="http://rvm.io/rvm/install">Installing RVM</a>. If you’re using Linux you’ll need something to help you install Ruby gems, such as Jekyll.</li>
+</ul>
+
+<h2 id="git-and-github">Git and Github</h2>
+
+<p>Git is version control software and Github is somewhere to host your version controlled software. Advantages:</p>
+
+<ul>
+  <li>Site backed up automatically</li>
+  <li>Site code publically available</li>
+  <li>Site versioned (roll back changes you make)</li>
+  <li>Work on your site anywhere you’ve installed Git (and Jekyll)</li>
+  <li>If you use Github Pages really easy and fast workflow</li>
+</ul>
+
+<p>Disadvantages:</p>
+
+<ul>
+  <li>I found Git opaque. It’s essentially a programmer’s tool and programmers don’t communicate in layman’s terms very well. Once you’ve got it working it’s simple (<code>git add</code>, <code>git commit</code>, <code>git push origin master</code> and you’ve published your site), but getting to that stage took  me some time.</li>
+</ul>
+
+<h3 id="resources-1">Resources</h3>
+
+<p><a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github">How the heck do I use Github?</a> is a step by step guide to getting started with Git and Github.</p>
+
+<h2 id="dropbox">Dropbox</h2>
+
+<p>Becuase your site doesn’t have a database you can store the local version in a bog standard folder. Make that your Dropbox (or Box or Owncloud) folder. Advantages:</p>
+
+<ul>
+  <li>Back up your site again</li>
+  <li>Changes synched across any PCs you work on (saves on <code>git pull</code>)</li>
+</ul>
+
+<p>Disadvantages:</p>
+
+<p>None.</p>
+
+<h2 id="github-pages-for-hosting">Github Pages for hosting</h2>
+
+<p>This is brilliant. Github Pages work with Jekyll, so all you do is create a repository for your website and push your whole Jekyll installation to it. Pages does the rest. Many advantages:</p>
+
+<ul>
+  <li>Brilliant, fast workflow: Write content in markdown → Build local site → Commit changes to Github repository</li>
+  <li>Free, top quality hosting</li>
+  <li>File compression and Content Delivery Network (CDN) included</li>
+</ul>
+
+<p>Disadvantages:</p>
+
+<ul>
+  <li>You’re tied into Github (although because you’re publishing flat HTML it’s easy to move your site)</li>
+  <li>Needs some technical knowledge, especially when it comes to pointing your domain name to Github</li>
+  <li>Not all domain name providers allow <code>www</code> subdomain redirects to a web address (i.e. <code>your-github-name.github.io</code>), without which you lose the benefit of Github’s CDN</li>
+</ul>
+
+<h3 id="resources-2">Resources</h3>
+
+<ul>
+  <li>Start with <a href="http://24ways.org/2013/get-started-with-github-pages/">Get started with Github Pages (plus bonus Jekyll)</a></li>
+  <li>The comments on this Stack Overflow <a href="http://stackoverflow.com/questions/23097397/github-pages-setting-up-custom-domain">thread on setting up your domain name to work with Guthub Pages</a> were excellent. Helped make sure I get to use Pages’ CDN.</li>
+</ul>
+
+<p>I’m pretty pleased with this setup: I have fast, reliable (and free!) hosting and I can edit, publish and copy my content with a minimum of fuss.</p>
+
+
+			</div>
+
+			<footer class="entry-footer">
+
+				<div class="secondary">
+
+					
+
+					<p><time class="published">Aug 31 2014</time> &middot; 
+						734
+					 words &middot; <a href="/">Home</a> / <a href="/feed">RSS</a></p>
+
+					<br>
+
+					<div class="pagination clearfix">
+
+					
+
+						<p class="secondary next">Next: <a href="/logic-of-austerity/">Paying for stuff and the logic of austerity</a> &rarr;</p>
+
+					
+
+					
+
+						<p class="secondary previous">&larr; Previous: <a href="/outliving-facebook/">Outliving Facebook</a></p>
+
+					
+
+				</div>
+
+				</footer>
+
+			</article>
+
+		</div>
+
+					</div> <!-- end .wrapper -->
+
+				</div> <!-- end .outer-wrapper -->
+
+			</main> <!-- end .inner-wrapper -->
+
+			<footer id="footer">
+
+				<div class="outer-wrapper">
+
+					<div class="wrapper">
+
+						<div class="secondary">
+
+							
+
+								<p class="logo text-centre"><a onclick="smoothScroll('top');" href="#top"><img class="logo-img" src="/images/up.svg"></a></p>
+
+							
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</footer>
+
+		<script>
+
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-15495291-1', 'auto');
+			ga('send', 'pageview');
+
+		</script>
+
+	</body>
+
+</html>
+

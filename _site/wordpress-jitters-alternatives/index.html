@@ -1,0 +1,204 @@
+<!doctype html>
+
+<html lang="en-gb">
+
+	<head>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>I'd like a friendly Jekyll/Github hybrid to manage websites &#8211; Leon Paternoster</title>
+		
+
+		<!--[if lt IE 9]>
+    		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js">
+    	<![endif]-->
+
+		<link rel="canonical" href="http://www.nobulbs.com/wordpress-jitters-alternatives/">
+		<link rel="stylesheet" href="http://yui.yahooapis.com/combo?pure/0.5.0/buttons-min.css&pure/0.5.0/forms-min.css&pure/0.5.0/tables-min.css">
+		<link rel="stylesheet" href="/css/main.css">
+		<link href="/feed" rel="alternate" type="application/rss+xml" title="Leon Paternoster">
+		<link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+
+		<script>
+			WebFontConfig = {
+			typekit: { id: 'yye2pxh' }
+			};
+
+			(function(d) {
+			var wf = d.createElement('script'), s = d.scripts[0];
+			wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.6/webfont.js';
+			s.parentNode.insertBefore(wf, s);
+			})(document);
+		</script>
+
+		<script src="/js/smooth.js"></script>
+
+	</head>
+
+	<body id="top">
+
+		<ul class="accessibility hide">
+
+			<li><a href="#content">Skip to content</a></li>
+
+		</ul>
+
+		<div class="top-bar">
+
+			
+
+				<div class="outer-wrapper">
+
+					<div class="wrapper">
+
+						<div class="logo text-centre"><a href="/"><img class="logo-img" src="/images/home-blue.svg" alt="Go to the home page" title="Go to the home page"></a></div>
+
+					</div> <!-- end .wrapper -->
+
+				</div> <!-- end .outer-wrapper -->
+
+			
+
+		</div>
+
+		<main id="content" role="main">
+
+			<div class="outer-wrapper">
+
+
+	<div class="wrapper page">
+
+		<article class="entry">
+
+			<div class="entry-header">
+
+				<h1 class="entry-title">I'd like a friendly Jekyll/Github hybrid to manage websites</h1>
+
+			</div>
+
+			<div class="entry-content">
+
+				<p>Today I updated the work site to WordPress version 4. Updating WordPress work sites is never a pleasant experience.</p>
+
+<p>It actually went OK: the site was only out of action for a few seconds while the update downloaded and installed. The process is simple – you click a button and wait. I have nothing against WordPress from this point of view – it’s well designed, easy to use software that can do a million and one things. There’s just a nagging feeling that something <em>could</em> go wrong with one of the many components that make up a site, and that one thing could bring the site down.</p>
+
+<p>I’m conservative with plugins, but when it comes to maintenance we still have to think about:</p>
+
+<ul>
+  <li>a caching plugin</li>
+  <li>an events plugin</li>
+  <li>a forms plugin</li>
+  <li>a plugin that makes sure javascript is loaded from Google code correctly</li>
+  <li>the WordPress core</li>
+  <li>a parent theme</li>
+  <li>a child theme</li>
+  <li>a database</li>
+  <li>backing up the database</li>
+  <li>backing up the content files</li>
+  <li>reinstalling everything should something go wrong</li>
+</ul>
+
+<p>All these bits and pieces affect each other; for example, a few months ago the events plugin created so many pages it messed up the caching plugin, which in turn caused an intermittent fatal error.</p>
+
+<p>It’s stressful. Every update represents a round of testing, backing up and finger crossing when the live site is finally changed. 10 plugins means lots of updates.</p>
+
+<p>Having to change things live without being <em>absolutely</em> sure of what’s going to happen is a thrill I don’t really need at work.</p>
+
+<p>I don’t think Jekyll or Hugo can generate easy to edit, complex sites, but a system that did <em>all</em> the heavy lifting locally would be ideal. Updates would be a matter of uploading static HTML files to a server, which is about as predictable and stable as you can get.</p>
+
+<p>Here’s what I think you’d need:</p>
+
+<ul>
+  <li>A GUI so non–technical writers could work with content</li>
+  <li>A way of accessing that content from different devices</li>
+  <li>Extended Markdown</li>
+  <li>To generate flat, HTML files</li>
+  <li>A way to incorporate common 3rd party alternatives for dynamic functions (such as forms and comments)</li>
+  <li>A way of displaying the generated site on a test server</li>
+</ul>
+
+<p>I guess I’m describing a friendlier Jekyll/Github hybrid. Whatever it is, it’d make for a stress free, robust CMS.</p>
+
+
+
+			</div>
+
+			<footer class="entry-footer">
+
+				<div class="secondary">
+
+					
+
+					<p><time class="published">Sep 27 2014</time> &middot; 
+						399
+					 words &middot; <a href="/">Home</a> / <a href="/feed">RSS</a></p>
+
+					<br>
+
+					<div class="pagination clearfix">
+
+					
+
+						<p class="secondary next">Next: <a href="/in-praise-of-georgia/">In praise of Georgia (again)</a> &rarr;</p>
+
+					
+
+					
+
+						<p class="secondary previous">&larr; Previous: <a href="/google-schmidt-stanford-liberal-gentrification/">Friday reading &#8211; Google, Stanford, DC, liberals and gentrification</a></p>
+
+					
+
+				</div>
+
+				</footer>
+
+			</article>
+
+		</div>
+
+					</div> <!-- end .wrapper -->
+
+				</div> <!-- end .outer-wrapper -->
+
+			</main> <!-- end .inner-wrapper -->
+
+			<footer id="footer">
+
+				<div class="outer-wrapper">
+
+					<div class="wrapper">
+
+						<div class="secondary">
+
+							
+
+								<p class="logo text-centre"><a onclick="smoothScroll('top');" href="#top"><img class="logo-img" src="/images/up.svg"></a></p>
+
+							
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</footer>
+
+		<script>
+
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-15495291-1', 'auto');
+			ga('send', 'pageview');
+
+		</script>
+
+	</body>
+
+</html>
+

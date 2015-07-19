@@ -1,0 +1,31 @@
+@media screen, projection {
+
+    .top-bar {
+        padding: $half-line 0;
+        text-transform: lowercase;
+        font-variant: small-caps;
+        letter-spacing: 1px;
+        font-weight: bold;
+
+        @media #{$bp} {
+            padding-bottom: $double-line;
+        }
+
+    }
+
+    .top-bar a:link,
+    .top-bar a:visited {
+        color: $black;
+    }
+
+    .top-bar a:hover,
+    .top-bar a:active,
+    .top-bar a:focus {
+        color: $hover;
+    }
+
+    .top-bar-title {
+        font-size: 1em;
+    }
+
+}

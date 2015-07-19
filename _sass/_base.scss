@@ -1,0 +1,106 @@
+@media screen, projection {
+
+body,
+ul,
+ol,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+fieldset,
+dd,
+figure,
+figcaption,
+main {
+	margin:  0;
+	padding: 0;
+}
+
+article,
+aside,
+dialog,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+nav,
+section,
+main {
+	display: block;
+}
+
+html {
+	background-color: $light;
+	color: $dark;
+}
+
+body {
+	font-size: $base-font-size;
+	line-height: $base-line-height;
+	font-family: $main-font;
+	padding: 0 $single-line;
+
+	@media #{$nbp} {
+		font-size: $widescreen-font-size;
+		padding: $single-line;
+	}
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dt {
+	font-family: $secondary-font;
+}
+
+code {
+	color: $dark;
+}
+
+pre {
+	overflow: auto;
+	display: block;
+	margin-bottom: 1.4em;
+	padding: 0.75em;
+	background-color: $dark;
+
+	@media #{$bp} {
+		margin-bottom: 1.043em;
+		padding: 1.043em;
+	}
+
+}
+
+pre code {
+	color: $code;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link,
+a:visited {
+	color: $link;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: $hover;
+}
+
+a img {
+	border: none;
+	color: #FFF;
+}
+
+}

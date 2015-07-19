@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang="en-gb">
+
+	<head>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>{% if page.title %}{{ page.title }} &#8211; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+		{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
+		<!--[if lt IE 9]>
+    		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js">
+    	<![endif]-->
+
+		<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+		<link rel="stylesheet" href="http://yui.yahooapis.com/combo?pure/0.5.0/buttons-min.css&pure/0.5.0/forms-min.css&pure/0.5.0/tables-min.css">
+		<link rel="stylesheet" href="/css/main.css">
+		<link href="/feed" rel="alternate" type="application/rss+xml" title="{{ site.title }}">
+		<link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+
+		<script>
+			WebFontConfig = {
+			typekit: { id: 'yye2pxh' }
+			};
+
+			(function(d) {
+			var wf = d.createElement('script'), s = d.scripts[0];
+			wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.6/webfont.js';
+			s.parentNode.insertBefore(wf, s);
+			})(document);
+		</script>
+
+		<script src="/js/smooth.js"></script>
+
+	</head>
+
+	<body id="top">
+
+		<ul class="accessibility hide">
+
+			<li><a href="#content">Skip to content</a></li>
+
+		</ul>
+
+		<div class="top-bar">
+
+			{% if page.title != "Home" %}
+
+				<div class="outer-wrapper">
+
+					<div class="wrapper">
+
+						<div class="logo text-centre"><a href="/"><img class="logo-img" src="/images/home-blue.svg" alt="Go to the home page" title="Go to the home page"></a></div>
+
+					</div> <!-- end .wrapper -->
+
+				</div> <!-- end .outer-wrapper -->
+
+			{% endif %}
+
+		</div>
+
+		<main id="content" role="main">
+
+			<div class="outer-wrapper">

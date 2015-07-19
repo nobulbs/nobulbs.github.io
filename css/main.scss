@@ -1,0 +1,70 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+// Variables
+
+
+// Fonts
+
+$main-font: ff-tisa-web-pro, serif;
+$secondary-font: ff-tisa-web-pro, serif;
+
+
+// Size
+
+$base-line-height: 1.4;
+$single-line: 1.4em;
+$line-and-a-half: ($single-line * 1.5);
+$double-line: ($single-line * 2);
+$treble-line: ($single-line * 3);
+$quadruple-line: ($single-line * 4);
+$half-line: ($single-line / 2);
+$quarter-line: ($single-line / 4);
+$eighth-line: ($single-line / 8);
+$base-font-size: 106.75%;
+$widescreen-font-size: 118.75%;
+
+
+// Colours
+
+$black: #000;
+$dark: #444;
+$light: #FFF;
+$highlight: #FF0059;
+$grey: #AAA;
+$lgrey: #F7F7F7;
+$midgrey: #DFDFDF;
+$link: #0282F9;
+$visited: #46A4FC;
+$active: #000;
+$hover: #02CAF7;
+$code: #FCDF02;
+$background: #F7F7F7;
+
+$nbp: "screen and (min-width: 700px)";
+$bp: "screen and (min-width: 780px)";
+$wbp: "screen and (min-width: 900px)";
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@import
+    "base",
+    "layout",
+	"grid",
+    "reusables",
+    "logo",
+    "inline-nav",
+    "entry",
+    "custom-form-table",
+    "link-list",
+    "heroic",
+    "breadcrumb",
+    "global-nav",
+    "bleed",
+	"print"
+;
