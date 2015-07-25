@@ -3,7 +3,7 @@ title: What we can learn from the Tories in opposition (and how there's an oppor
 layout: post
 ---
 
-OK, so I'm no analyst, academic, journalist, politician or philosopher and, if you're interested, you will have heard or read 1001 opinions on who and what Labour should choose in the forthcoming leadership election. However, I am a Labour party member and I have thought hard about this. For what it's worth, here's my twopenneth worth&hellip;
+OK, so I'm no analyst, academic, journalist, politician or philosopher and, if you're interested, you will have heard or read 1001 opinions on who and what Labour should choose in the forthcoming leadership election. However, I am a Labour party member and I have thought hard about this. Here's my twopenneth&hellip;
 
 <hr>
 
