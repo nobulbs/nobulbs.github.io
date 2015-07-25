@@ -7,7 +7,7 @@ OK, so I'm no analyst, academic, journalist, politician or philosopher and, if y
 
 <hr>
 
-It's worth looking at the Tories fared in opposition. In 1997, they lost big &#8211; Labour won a 179(!) seat majority. The first post&#8211;Major leader was William Hague, who proceeded to lose big again, after which Ian Duncan Smith(!!) took the Tory helm. After that debacle the Tories selected Michael Howard &#8211; a relatively safe pair of hands &#8211; then finally settled on David Cameron after Howard lost the 2005 election.
+It's worth looking at how the Tories fared in opposition. In 1997, they lost big &#8211; Labour won a 179(!) seat majority. The first post&#8211;Major leader was William Hague, who proceeded to lose big again, after which Ian Duncan Smith(!!) took the Tory helm. After that debacle the Tories selected Michael Howard &#8211; a relatively safe pair of hands &#8211; then finally settled on David Cameron after Howard lost the 2005 election.
 
 As someone once asked: what really went on there? And what can we learn from it?
 
