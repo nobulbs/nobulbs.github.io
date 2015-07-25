@@ -59,4 +59,4 @@ It would be great if Cooper could establish a new narrative that appealed to the
 
 It would re&#8211;energise party members in these far right times, while providing a clear challenge to the Conservatives. Although policy detail isn't important, a grand gesture wouldn't go amiss. Something along the lines of scrapping tuition fees.
 
-Is she capable? Or has years of tactical obfuscation made it impossible? I fear the latter.
+Is she capable? Or have years of tactical manouvering made it impossible? I fear the latter.
