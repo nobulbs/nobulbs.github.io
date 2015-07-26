@@ -37,7 +37,7 @@
   body {
     font-size: 106.75%;
     line-height: 1.4;
-    font-family: proxima-nova, sans-serif;
+    font-family: proxima-nova, roboto, sans-serif;
     padding: 0 1.4em; } }
   @media screen and (min-width: 700px) {
     body {
@@ -52,7 +52,7 @@
   h5,
   h6,
   dt {
-    font-family: proxima-nova, sans-serif; }
+    font-family: proxima-nova, roboto, sans-serif; }
 
   code {
     color: #444; }
@@ -94,7 +94,7 @@
 
   #footer {
     padding: 0.7em 0;
-    font-family: proxima-nova, sans-serif;
+    font-family: proxima-nova, roboto, sans-serif;
     color: #AAA; } }
 @media screen, projection {
   .g-row {
@@ -328,7 +328,7 @@
     margin-bottom: 1.4em; }
 
   .form-custom input {
-    font-family: proxima-nova, sans-serif; }
+    font-family: proxima-nova, roboto, sans-serif; }
 
   .form-custom input[type="search"] {
     padding: 0.175em;
@@ -339,7 +339,7 @@
     width: 100%;
     display: block;
     margin-bottom: 0.35em;
-    font-family: proxima-nova, sans-serif;
+    font-family: proxima-nova, roboto, sans-serif;
     border-radius: 0.2em; } }
   @media screen and (min-width: 780px) {
     .form-custom input[type="search"] {
@@ -403,7 +403,7 @@
   html {
     font-size: 118.5%;
     line-height: 1.2;
-    font-family: proxima-nova, sans-serif, sans-serif; }
+    font-family: proxima-nova, roboto, sans-serif, sans-serif; }
 
   .nav,
   #banner,

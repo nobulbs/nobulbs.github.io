@@ -10,8 +10,8 @@
 
 // Fonts
 
-$main-font: proxima-nova, sans-serif;
-$secondary-font: proxima-nova, sans-serif;
+$main-font: proxima-nova, roboto, sans-serif;
+$secondary-font: proxima-nova, roboto, sans-serif;
 
 
 // Size
@@ -27,6 +27,7 @@ $quarter-line: ($single-line / 4);
 $eighth-line: ($single-line / 8);
 $base-font-size: 106.75%;
 $widescreen-font-size: 118.75%;
+$measure: 28em;
 
 
 // Colours
