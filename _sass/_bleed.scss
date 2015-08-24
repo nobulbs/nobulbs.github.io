@@ -2,6 +2,11 @@
 
     .entry-content .bleed {
 
+        @media #{$wbp} {
+            margin-left: -4em;
+            max-width: $measure + 8 !important;
+        }
+
     }
 
 }
