@@ -10,14 +10,14 @@
 
 // Fonts
 
-$main-font: proxima-nova, roboto, sans-serif;
-$secondary-font: proxima-nova, roboto, sans-serif;
+$main-font: adobe-garamond-pro, 'Times New Roman', serif;
+$secondary-font: adobe-garamond-pro, 'Times New Roman', serif;
 
 
 // Size
 
-$base-line-height: 1.4;
-$single-line: 1.4em;
+$base-line-height: 1.35;
+$single-line: 1.35em;
 $line-and-a-half: ($single-line * 1.5);
 $double-line: ($single-line * 2);
 $treble-line: ($single-line * 3);
@@ -25,8 +25,8 @@ $quadruple-line: ($single-line * 4);
 $half-line: ($single-line / 2);
 $quarter-line: ($single-line / 4);
 $eighth-line: ($single-line / 8);
-$base-font-size: 106.75%;
-$widescreen-font-size: 118.75%;
+$base-font-size: 112.5%;
+$widescreen-font-size: 150%;
 $measure: 28em;
 
 
@@ -44,7 +44,8 @@ $visited: #46A4FC;
 $active: #000;
 $hover: #02CAF7;
 $code: #FCDF02;
-$background: #F7F7F7;
+$background: #222;
+$foreground: #A3A098;
 
 $nbp: "screen and (min-width: 700px)";
 $bp: "screen and (min-width: 780px)";

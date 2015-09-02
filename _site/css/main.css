@@ -35,14 +35,14 @@
     color: #444; }
 
   body {
-    font-size: 106.75%;
-    line-height: 1.4;
-    font-family: proxima-nova, roboto, sans-serif;
-    padding: 0 1.4em; } }
+    font-size: 112.5%;
+    line-height: 1.35;
+    font-family: adobe-garamond-pro, "Times New Roman", serif;
+    padding: 0 1.35em; } }
   @media screen and (min-width: 700px) {
     body {
-      font-size: 118.75%;
-      padding: 1.4em; } }
+      font-size: 150%;
+      padding: 1.35em; } }
 
 @media screen, projection {
   h1,
@@ -52,7 +52,7 @@
   h5,
   h6,
   dt {
-    font-family: proxima-nova, roboto, sans-serif; }
+    font-family: adobe-garamond-pro, "Times New Roman", serif; }
 
   code {
     color: #444; }
@@ -93,8 +93,8 @@
     margin: 0 auto; }
 
   #footer {
-    padding: 0.7em 0;
-    font-family: proxima-nova, roboto, sans-serif;
+    padding: 0.675em 0;
+    font-family: adobe-garamond-pro, "Times New Roman", serif;
     color: #AAA; } }
 @media screen, projection {
   .g-row {
@@ -215,23 +215,23 @@
   .logo-img {
     text-align: center;
     font-weight: normal;
-    height: 1.4em; } }
+    height: 1.35em; } }
 @media screen, projection {
   .inline-nav-item {
     display: inline;
-    margin-right: 1.4em; }
+    margin-right: 1.35em; }
 
   .align-right .inline-nav-item {
     margin-right: 0;
-    margin-left: 1.4em; } }
+    margin-left: 1.35em; } }
 @media screen and (min-width: 780px) {
   .g-w-align-right .inline-nav-item {
     margin-right: 0;
-    margin-left: 1.4em; } }
+    margin-left: 1.35em; } }
 
 @media screen, projection {
   .entry-header {
-    margin-bottom: 1.4em; }
+    margin-bottom: 1.35em; }
 
   .entry-title {
     font-size: 1em;
@@ -241,10 +241,10 @@
   .entry-meta {
     font-size: 0.889em;
     font-style: italic;
-    margin-bottom: 1.4em; }
+    margin-bottom: 1.35em; }
 
   .entry-content {
-    padding-bottom: 1.4em; }
+    padding-bottom: 1.35em; }
 
   .entry-content a:link {
     color: #0282F9; }
@@ -265,7 +265,7 @@
   .entry-content ul,
   .entry-content ol,
   .entry-content dd {
-    margin-bottom: 0.7em;
+    margin-bottom: 0.675em;
     hyphens: auto;
     -moz-hyphens: auto; }
 
@@ -277,7 +277,7 @@
 
 @media screen, projection {
   .entry-content blockquote {
-    margin-left: 1.4em;
+    margin-left: 1.35em;
     line-height: 1.2em; }
 
   .entry-content h1,
@@ -287,7 +287,7 @@
   .entry-content dt {
     font-size: 1em;
     line-height: 1.2em;
-    padding: 1.4em 0 0.7em 0;
+    padding: 1.35em 0 0.675em 0;
     color: #AAA; }
 
   .entry-content h3,
@@ -302,13 +302,13 @@
     font-style: italic; }
 
   .entry-footer {
-    padding: 0.7em 0; }
+    padding: 0.675em 0; }
 
   .entry-content hr,
   #footer hr {
     width: 33%;
-    margin: 0 auto 0.7em auto;
-    padding-top: 1.4em;
+    margin: 0 auto 0.675em auto;
+    padding-top: 1.35em;
     border: none;
     border-bottom: 1px dotted #AAA; }
 
@@ -321,43 +321,43 @@
     box-sizing: border-box; }
 
   .figcaption {
-    padding-bottom: 0.7em;
+    padding-bottom: 0.675em;
     color: #AAA; } }
 @media screen, projection {
   .form-custom {
-    margin-bottom: 1.4em; }
+    margin-bottom: 1.35em; }
 
   .form-custom input {
-    font-family: proxima-nova, roboto, sans-serif; }
+    font-family: adobe-garamond-pro, "Times New Roman", serif; }
 
   .form-custom input[type="search"] {
-    padding: 0.175em;
+    padding: 0.16875em;
     font-size: 1em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     width: 100%;
     display: block;
-    margin-bottom: 0.35em;
-    font-family: proxima-nova, roboto, sans-serif;
+    margin-bottom: 0.3375em;
+    font-family: adobe-garamond-pro, "Times New Roman", serif;
     border-radius: 0.2em; } }
   @media screen and (min-width: 780px) {
     .form-custom input[type="search"] {
       width: 75%;
       display: inline;
       margin-bottom: 0;
-      padding: 0.35em;
-      margin-bottom: 0.35em; } }
+      padding: 0.3375em;
+      margin-bottom: 0.3375em; } }
 
 @media screen, projection {
   .table-custom {
-    margin-bottom: 1.4em; } }
+    margin-bottom: 1.35em; } }
 @media screen, projection {
   .link-list {
-    padding-bottom: 0.7em; }
+    padding-bottom: 0.675em; }
 
   .link-list-item {
-    margin-bottom: 1.4em;
+    margin-bottom: 1.35em;
     list-style-type: none;
     margin-left: 0 !important; } }
 @media screen, projection {
@@ -371,17 +371,17 @@
     margin-bottom: 0.727em; } }
 @media screen, projection {
   .breadcrumb {
-    margin-bottom: 1.4em; } }
+    margin-bottom: 1.35em; } }
 @media screen, projection {
   .top-bar {
-    padding: 0.7em 0;
+    padding: 0.675em 0;
     text-transform: lowercase;
     font-variant: small-caps;
     letter-spacing: 1px;
     font-weight: bold; } }
   @media screen and (min-width: 780px) {
     .top-bar {
-      padding-bottom: 2.8em; } }
+      padding-bottom: 2.7em; } }
 
 @media screen, projection {
   .top-bar a:link,
@@ -408,7 +408,7 @@
   html {
     font-size: 118.5%;
     line-height: 1.2;
-    font-family: proxima-nova, roboto, sans-serif, sans-serif; }
+    font-family: adobe-garamond-pro, "Times New Roman", serif, sans-serif; }
 
   .nav,
   #banner,
