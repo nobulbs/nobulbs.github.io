@@ -52,7 +52,7 @@
   h5,
   h6,
   dt {
-    font-family: adobe-garamond-pro, "Times New Roman", serif; }
+    font-family: aktiv-grotesk, "helvetica neue", sans-serif; }
 
   code {
     color: #444; }
@@ -94,7 +94,7 @@
 
   #footer {
     padding: 0.675em 0;
-    font-family: adobe-garamond-pro, "Times New Roman", serif;
+    font-family: aktiv-grotesk, "helvetica neue", sans-serif;
     color: #AAA; } }
 @media screen, projection {
   .g-row {
@@ -238,11 +238,6 @@
     line-height: 1.2em;
     color: #000; }
 
-  .entry-meta {
-    font-size: 0.889em;
-    font-style: italic;
-    margin-bottom: 1.35em; }
-
   .entry-content {
     padding-bottom: 1.35em; }
 
@@ -359,7 +354,10 @@
   .link-list-item {
     margin-bottom: 1.35em;
     list-style-type: none;
-    margin-left: 0 !important; } }
+    margin-left: 0 !important; }
+
+  .link-list-link {
+    font-family: aktiv-grotesk, "helvetica neue", sans-serif; } }
 @media screen, projection {
   .hero {
     padding: 0.727em 0; }
