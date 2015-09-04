@@ -68,15 +68,15 @@
 
     .entry-content h3,
     .entry-content dt {
-    	text-transform: lowercase;
-        font-variant: small-caps;
         font-weight: normal;
-        letter-spacing: 1px;
+        font-style: italic;
     }
 
     .entry-content h4 {
+        text-transform: lowercase;
+        font-variant: small-caps;
         font-weight: normal;
-        font-style: italic;
+        letter-spacing: 1px;
     }
 
     .entry-footer {
