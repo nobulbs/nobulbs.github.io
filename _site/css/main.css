@@ -35,7 +35,7 @@
     color: #444; }
 
   body {
-    font-size: 106.75%;
+    font-size: 112.5%;
     line-height: 1.35;
     font-family: freight-text-pro, georgia, serif;
     padding: 0 1.35em; } }
@@ -45,15 +45,6 @@
       padding: 1.35em; } }
 
 @media screen, projection {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  dt {
-    font-family: freight-text-pro, georgia, serif; }
-
   code {
     color: #444; }
 
@@ -94,7 +85,7 @@
 
   #footer {
     padding: 0.675em 0;
-    font-family: freight-text-pro, georgia, serif;
+    font-family: franklin-gothic-urw, "helvetica neue", arial, sans-serif;
     color: #AAA; } }
 @media screen, projection {
   .g-row {
@@ -236,7 +227,8 @@
   .entry-title {
     font-size: 1em;
     line-height: 1.2em;
-    color: #000; }
+    color: #000;
+    font-family: franklin-gothic-urw, "helvetica neue", arial, sans-serif; }
 
   .entry-content {
     padding-bottom: 1.35em; }
@@ -285,16 +277,20 @@
     padding: 1.35em 0 0.675em 0;
     color: #AAA; }
 
+  .entry-content h1,
+  .entry-content h2 {
+    font-family: franklin-gothic-urw, "helvetica neue", arial, sans-serif; }
+
   .entry-content h3,
   .entry-content dt {
+    font-weight: normal;
+    font-style: italic; }
+
+  .entry-content h4 {
     text-transform: lowercase;
     font-variant: small-caps;
     font-weight: normal;
     letter-spacing: 1px; }
-
-  .entry-content h4 {
-    font-weight: normal;
-    font-style: italic; }
 
   .entry-footer {
     padding: 0.675em 0; }
@@ -354,10 +350,7 @@
   .link-list-item {
     margin-bottom: 1.35em;
     list-style-type: none;
-    margin-left: 0 !important; }
-
-  .link-list-link {
-    font-family: freight-text-pro, georgia, serif; } }
+    margin-left: 0 !important; } }
 @media screen, projection {
   .hero {
     padding: 0.727em 0; }
