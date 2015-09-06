@@ -3,12 +3,35 @@
     <title type="text" xml:lang="en">No Bulbs from Leon Paternoster</title>
     <link type="application/atom+xml" href="http://www.nobulbs.com.com/feed/" rel="self"/>
     <link type="text" href="http://www.nobulbs.com" rel="alternate"/>
-    <updated>2015-09-05T12:08:09+01:00</updated>
+    <updated>2015-09-06T14:15:56+01:00</updated>
     <id>http://leonpaternoster.com</id>
     <author>
         <name>Leon Paternoster</name>
     </author>
     <rights>Copyright (c) Leon Paternoster</rights>
+    
+    <entry>
+        <title>Show me the Next &#8211; genius concept, needs better content</title>
+        <link href="http://www.nobulbs.com/show-me-the-next/"/>
+        <updated>2015-09-06T00:00:00+01:00</updated>
+        <id>http://www.nobulbs.com/show-me-the-next//</id>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;http://showmethenext.com/&quot;&gt;Show me the Next&lt;/a&gt; is an incredibly simple app (or rather, an incredibly simple website). You visit, it displays an article and you press a button and it displays another article.&lt;/p&gt;
+
+&lt;p&gt;That’s it. There’s &lt;a href=&quot;http://showmethenext.com/wp-content/themes/smtn/style.css&quot;&gt;next to no styling&lt;/a&gt; – &lt;a href=&quot;/why-my-site-is-so-simple/&quot;&gt;even less than this website’s&lt;/a&gt; – and no navigation or archives.&lt;/p&gt;
+
+&lt;p&gt;I admit to liking this idea, although I’m not so sure there’s really ever a time when you just want something, anything to read without exercising &lt;em&gt;some&lt;/em&gt; choice. &lt;cite&gt;Nieman Journalism Lab&lt;/cite&gt; reckons there might be:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You’re on a long escalator with a phone in hand, and you want to thumb through something interesting quickly, without having to look for it. You’re sitting in gridlock traffic and tired of radio. You don’t want to skim Twitter or Facebook — you only want one story at a time, you don’t want to have to search for anything, but you still want to be surprised. &lt;cite&gt;&lt;a href=&quot;http://www.niemanlab.org/2015/09/show-me-the-next-strips-down-online-reading-and-discovery-to-their-most-basic-components/&quot;&gt;Show Me The Next strips down online reading and discovery to their most basic components&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Perhaps that’s right, but you’d need to be an expert curator and have a pool of top quality writing to draw from. At the moment the articles are a little too random, with a lot of stuff from Wikipedia. I don’t think it’s compelling enough when you can dive into McSweeney’s or Longform or your RSS feed with a just a tad more effort.&lt;/p&gt;
+
+&lt;p&gt;Still, there’s potential in the idea, or at least the process and technology behind it. And that’s what I really like about &lt;cite&gt;Show me the Next&lt;/cite&gt;. Pretty much anyone can build a barebones WordPress theme and link it to, say, a Pocket account. No overheads, no maintenance, no app and, most importantly, no actual writing. It works everywhere. Just me, my site and my Pocket button. There’s some real &lt;em&gt;chutzpah&lt;/em&gt; in that.&lt;/p&gt;
+
+&lt;p&gt;Any ideas what content would work? Fiction? In depth economic articles? I could get it built in a couple of hours…&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Why my website looks so plain</title>
@@ -318,35 +341,6 @@
 &lt;p&gt;Strange times, too – only recently, Labour moved so far to the right &lt;a href=&quot;/2015/06/the-last-liberal-centre-broke/&quot;&gt;the UK’s centre party became its most radical&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Žižek is ambivalent about this opportunity, but it is an opportunity nonetheless. If Labour or the Lib Dems won’t do it…&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Labour's problems are only partly about how it talks</title>
-        <link href="http://www.nobulbs.com/labour-comms-purpose/"/>
-        <updated>2015-06-10T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/labour-comms-purpose//</id>
-        <content type="html">&lt;p&gt;&lt;a href=&quot;http://labourlist.org/2015/06/we-failed-to-defeat-the-tories-because-the-left-has-stopped-understanding-the-public/&quot;&gt;Sunny makes a good point about &lt;em&gt;some&lt;/em&gt; leftwing communication&lt;/a&gt;, quoting Podemos’ Pablo Iglesias:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The enemy wants nothing more than to laugh at you. You can wear a T-shirt with the hammer and sickle. You can even carry a huge flag, and then go back home with your flag, all while the enemy laughs at you. Because the people, the workers, they prefer the enemy to you. They believe him. They understand him when he speaks. They don’t understand you. And maybe you are right! &lt;cite&gt;&lt;a href=&quot;http://labourlist.org/2015/06/we-failed-to-defeat-the-tories-because-the-left-has-stopped-understanding-the-public/&quot;&gt;We failed to defeat the Tories because the left has stopped understanding the public&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;And he’s right. I’ve seen plenty of lefties really struggle to express their ideas without implying &lt;em&gt;but can’t you see it, you fool!&lt;/em&gt; - that’s if they manage to actually talk to anyone at all in 4 million ‘conversations’.&lt;/p&gt;
-
-&lt;p&gt;But there’s a danger we conflate the inability to express something in vaguely human terms with saying the wrong thing.&lt;/p&gt;
-
-&lt;p&gt;In other words, just because the Tories have been able to construct a serviceable household budget metaphor as a justification for austerity, it doesn’t mean austerity’s right.&lt;/p&gt;
-
-&lt;p&gt;Sunny reckons there are lots of &lt;q&gt;&lt;a href=&quot;https://twitter.com/sunny_hundal/status/608561012455841793&quot;&gt;fiscally rightwing Labour voters&lt;/a&gt;&lt;/q&gt; out there.  If we accept this (and I’m not sure where he gets his figures from) then it doesn’t mean they’re right either. Austerity could be (is) damaging for millions of people across class divides.&lt;/p&gt;
-
-&lt;p&gt;The problem isn’t just &lt;em&gt;how&lt;/em&gt; we make these arguments, it’s the fact that Labour doesn’t make them &lt;em&gt;at all&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Now, Labour can go down the Liz Kendall route and decide to accept the Tory version of austerity, and Labour’s own role in the financial crisis. That would at least be logical, and therefore more understandable than its attempt to offer austerity–lite.&lt;/p&gt;
-
-&lt;p&gt;The only problem with ceding ground to the Tories entirely is i) it’d inflict more damage on the UK and ii) Labour would lose touch with its constituency altogether.&lt;/p&gt;
-
-&lt;p&gt;How does austerity affect the majority of people in the UK, including those earning around average incomes? How does it affect household incomes? How does it affect house prices? The cost of things? Job security? These aren’t questions just for the left; start answering them and you can formulate a simple, understandable pitch to the electorate. Assume voters are inherently left &lt;em&gt;or&lt;/em&gt; right wing and you’re doing them a disservice.&lt;/p&gt;
 </content>
     </entry>
     
