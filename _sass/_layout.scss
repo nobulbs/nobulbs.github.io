@@ -10,6 +10,12 @@
 	padding: $half-line 0;
 	font-family: $secondary-font;
 	color: $grey;
+	text-align: center;
+
+	@media #{$bp} {
+		padding: $double-line 0 $single-line 0;
+	}
+
 }
 
 

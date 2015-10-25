@@ -11,7 +11,7 @@
 // Fonts
 
 $main-font: freight-text-pro, georgia, serif;
-$secondary-font: franklin-gothic-urw, 'helvetica neue', arial, sans-serif;
+$secondary-font: freight-text-pro, georgia, serif;
 
 
 // Size
@@ -26,8 +26,20 @@ $half-line: ($single-line / 2);
 $quarter-line: ($single-line / 4);
 $eighth-line: ($single-line / 8);
 $base-font-size: 118.75%;
-$widescreen-font-size: 143.75%;
-$measure: 28em;
+$widescreen-font-size: 131.25%;
+$measure: 26em;
+
+
+// Type scale (see http://type-scale.com/ minor third)
+
+$size-1: 0.579em;
+$size-2: 0.694em;
+$size-3: 0.833em;
+$size-4: 1em;
+$size-5: 1.2em;
+$size-6: 1.44em;
+$size-7: 1.728em;
+$size-8: 2.074em;
 
 
 // Colours

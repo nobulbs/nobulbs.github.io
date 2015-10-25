@@ -41,7 +41,7 @@
     padding: 0 1.375em; } }
   @media screen and (min-width: 700px) {
     body {
-      font-size: 143.75%;
+      font-size: 131.25%;
       padding: 1.375em; } }
 
 @media screen, projection {
@@ -80,13 +80,18 @@
     color: #FFF; } }
 @media screen, projection {
   .wrapper {
-    max-width: 28em !important;
+    max-width: 26em !important;
     margin: 0 auto; }
 
   #footer {
     padding: 0.6875em 0;
-    font-family: franklin-gothic-urw, "helvetica neue", arial, sans-serif;
-    color: #AAA; } }
+    font-family: freight-text-pro, georgia, serif;
+    color: #AAA;
+    text-align: center; } }
+  @media screen and (min-width: 780px) {
+    #footer {
+      padding: 2.75em 0 1.375em 0; } }
+
 @media screen, projection {
   .g-row {
     clear: both;
@@ -148,7 +153,8 @@
 
 @media screen, projection {
   .secondary {
-    color: #AAA; }
+    color: #AAA;
+    font-size: 0.833em; }
 
   .primary {
     font-size: 1em;
@@ -222,13 +228,27 @@
 
 @media screen, projection {
   .entry-header {
-    margin-bottom: 1.375em; }
+    margin-bottom: 1.375em;
+    text-align: center; } }
+  @media screen and (min-width: 780px) {
+    .entry-header {
+      margin-bottom: 4.125em; } }
 
+@media screen, projection {
   .entry-title {
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.2em;
-    color: #000;
-    font-family: franklin-gothic-urw, "helvetica neue", arial, sans-serif; }
+    font-family: freight-text-pro, georgia, serif;
+    font-style: italic;
+    font-weight: normal; }
+
+  .entry-meta {
+    display: inline;
+    line-height: 1.2em;
+    font-size: 0.833em;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    letter-spacing: 1px; }
 
   .entry-content {
     padding-bottom: 1.375em; }
@@ -264,9 +284,12 @@
 
 @media screen, projection {
   .entry-content blockquote {
-    margin-left: 1.375em;
-    line-height: 1.2em; }
+    margin: 1.375em 0 1.375em 1.375em; } }
+  @media screen and (min-width: 780px) {
+    .entry-content blockquote {
+      margin: 1.375em 0 1.375em 2.75em; } }
 
+@media screen, projection {
   .entry-content h1,
   .entry-content h2,
   .entry-content h3,
@@ -275,11 +298,13 @@
     font-size: 1em;
     line-height: 1.2em;
     padding: 1.375em 0 0.6875em 0;
-    color: #AAA; }
+    color: #AAA;
+    font-weight: normal;
+    text-align: center; }
 
   .entry-content h1,
   .entry-content h2 {
-    font-family: franklin-gothic-urw, "helvetica neue", arial, sans-serif; }
+    font-family: freight-text-pro, georgia, serif; }
 
   .entry-content h3,
   .entry-content dt {
@@ -292,7 +317,8 @@
     font-weight: normal; }
 
   .entry-footer {
-    padding: 0.6875em 0; }
+    padding: 0.6875em 0;
+    text-align: center; }
 
   .entry-content hr,
   #footer hr {
@@ -312,7 +338,9 @@
 
   .figcaption {
     padding-bottom: 0.6875em;
-    color: #AAA; } }
+    color: #AAA;
+    font-size: 0.833em;
+    text-align: center; } }
 @media screen, projection {
   .form-custom {
     margin-bottom: 1.375em; }
@@ -365,10 +393,7 @@
 @media screen, projection {
   .top-bar {
     padding: 0.6875em 0;
-    text-transform: lowercase;
-    font-variant: small-caps;
-    letter-spacing: 1px;
-    font-weight: bold; } }
+    text-align: center; } }
   @media screen and (min-width: 780px) {
     .top-bar {
       padding-bottom: 2.75em; } }
@@ -376,7 +401,7 @@
 @media screen, projection {
   .top-bar a:link,
   .top-bar a:visited {
-    color: #000; }
+    color: #0282F9; }
 
   .top-bar a:hover,
   .top-bar a:active,
@@ -384,11 +409,16 @@
     color: #02CAF7; }
 
   .top-bar-title {
-    font-size: 1em; } }
+    display: inline;
+    font-size: 0.833em;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    font-weight: normal; } }
 @media screen and (min-width: 900px) {
   .entry-content .bleed {
     margin-left: -4em;
-    max-width: 36em !important; } }
+    max-width: 34em !important; } }
 
 @media print {
   * {

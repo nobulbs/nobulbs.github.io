@@ -2,13 +2,29 @@
 
     .entry-header {
     	margin-bottom: $single-line;
+        text-align: center;
+
+        @media #{$bp} {
+            margin-bottom: $treble-line;
+        }
+
     }
 
     .entry-title {
-    	font-size: 1em;
+    	font-size: $size-5;
     	line-height: 1.2em;
-        color: $black;
         font-family: $secondary-font;
+        font-style: italic;
+        font-weight: normal;
+    }
+
+    .entry-meta {
+        display: inline;
+        line-height: 1.2em;
+        font-size: $size-3;
+        text-transform: lowercase;
+        font-variant: small-caps;
+        letter-spacing: 1px;
     }
 
     .entry-content {
@@ -52,8 +68,12 @@
     }
 
     .entry-content blockquote {
-    	margin-left: $single-line;
-    	line-height: 1.2em;
+        margin: $single-line 0 $single-line $single-line;
+
+        @media #{$bp} {
+            margin: $single-line 0 $single-line $double-line;
+        }
+
     }
 
     .entry-content h1,
@@ -65,6 +85,8 @@
     	line-height: 1.2em;
     	padding: $single-line 0 $half-line 0;
         color: $grey;
+        font-weight: normal;
+        text-align: center;
     }
 
     .entry-content h1,
@@ -86,6 +108,7 @@
 
     .entry-footer {
     	padding: $half-line 0;
+        text-align: center;
     }
 
     .entry-content hr,
@@ -110,6 +133,8 @@
     .figcaption {
     	padding-bottom: $half-line;
     	color: $grey;
+        font-size: $size-3;
+        text-align: center;
     }
 
 }
