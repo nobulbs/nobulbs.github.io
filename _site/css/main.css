@@ -35,10 +35,10 @@
     color: #333; }
 
   body {
-    font-size: 118.75%;
+    font-size: 125%;
     line-height: 1.375;
     font-family: freight-text-pro, georgia, serif;
-    padding: 0 1.375em; } }
+    padding: 0 0.34375em; } }
   @media screen and (min-width: 700px) {
     body {
       font-size: 131.25%;
