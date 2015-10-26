@@ -34,7 +34,7 @@ main {
 }
 
 html {
-	background-color: $light;
+	background-color: $lgrey;
 	color: $dark;
 }
 
@@ -43,10 +43,16 @@ body {
 	line-height: $base-line-height;
 	font-family: $main-font;
 	padding: 0 $half-line;
+	background-color: $light;
 
 	@media #{$nbp} {
 		font-size: $widescreen-font-size;
 		padding: $single-line;
+	}
+
+	@media #{$bp} {
+		margin: $single-line;
+		border-radius: $eighth-line;
 	}
 
 }
