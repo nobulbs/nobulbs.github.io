@@ -3,17 +3,15 @@
     <title type="text" xml:lang="en">No Bulbs from Leon Paternoster</title>
     <link type="application/atom+xml" href="http://www.nobulbs.com.com/feed/" rel="self"/>
     <link type="text" href="http://www.nobulbs.com" rel="alternate"/>
-<<<<<<< HEAD
+
     <updated>2015-11-08T16:50:33+00:00</updated>
-=======
-    <updated>2015-11-04T09:06:19+00:00</updated>
->>>>>>> 2d8ff8c58e266190d2a86acfdd6992f6109b8436
+
     <id>http://leonpaternoster.com</id>
     <author>
         <name>Leon Paternoster</name>
     </author>
     <rights>Copyright (c) Leon Paternoster</rights>
-    
+
     <entry>
         <title>Container housing &#8211; Right solution, wrong problem</title>
         <link href="http://www.nobulbs.com/container-housing-right-solution-wrong-problem/"/>
@@ -50,7 +48,7 @@
 &lt;p&gt;Containers may seem a smart, inexpensive solution to a pressing problem, but that’s only the case when you’re failing miserably on so many other fronts: housing, for one, but also income, employment and the cost of living. And that’s all before you even tackle the question of  people living in metal boxes.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Old Zizek</title>
         <link href="http://www.nobulbs.com/old-zizek/"/>
@@ -75,7 +73,7 @@
 &lt;p&gt;Nietzsche’s objection to Marx was that he had a Christian, teleological view of the world. When you lose sight of paradise conservatism creeps in. Note Zizek’s views on Europe and immigration.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Haven't found it yet</title>
         <link href="http://www.nobulbs.com/not-found-it-yet/"/>
@@ -102,7 +100,7 @@
 &lt;p&gt;How will this end? In some ways you feel the Tories will, true to form, merrily commit suicide over tax credits or Europe. But there needs to be a cogent, credible opposition that can talk to people in terms they understand and trust. At the moment it’s hard to see where that’ll come from.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>New Old Labour Old New Danger</title>
         <link href="http://www.nobulbs.com/new-old-labour-danger/"/>
@@ -121,7 +119,7 @@
 &lt;p&gt;Got that wrong, the Tories. Not sure it’ll work with Corbyn, but would be sensible to quietly drop the leaving NATO staff…&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Murder in the cathedral &#8211; on Labour's tragedy (more Hamlet, really)</title>
         <link href="http://www.nobulbs.com/murder-in-the-cathedral/"/>
@@ -143,7 +141,7 @@
 &lt;/ul&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Show me the Next &#8211; genius concept, needs better content</title>
         <link href="http://www.nobulbs.com/show-me-the-next/"/>
@@ -168,7 +166,7 @@
 &lt;p&gt;What content could work? Fiction? In depth, insider articles on, say, economics? I could get it built in a couple of hours…&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Why my website looks so plain</title>
         <link href="http://www.nobulbs.com/why-my-site-is-so-simple/"/>
@@ -189,7 +187,7 @@
 &lt;p&gt;Maybe I’ll get lucky and you’ll like a minimalist look. A lot of people do. Or maybe I’ll change things around a bit. Or maybe you’ll get into these articles and start using this site rather than glancing at it. Who knows.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Ambiguity</title>
         <link href="http://www.nobulbs.com/ambiguity/"/>
@@ -206,7 +204,7 @@
 &lt;p&gt;Not sure where that leaves didactic writers who are masters of ambiguity. Perhaps that’s Tolstoy’s strength?&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Liz Kendall, an apology (and an appreciation of some of her ideas)</title>
         <link href="http://www.nobulbs.com/liz-kendall-apology-and-appreciation/"/>
@@ -265,7 +263,7 @@
 &lt;p&gt;Instead, for better or worse, it looks like we’re going to get Jeremy Corbyn. God knows how that will end.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Occupy the centre, comrades</title>
         <link href="http://www.nobulbs.com/occupy-deserted-centre-pragmatism/"/>
@@ -292,5 +290,5 @@
 &lt;p&gt;The question is: can the centre be redefined? Or has it been destroyed? Is it merely rhetorical? That’s what a new Labour leader should explore.&lt;/p&gt;
 </content>
     </entry>
-    
+
 </feed>
