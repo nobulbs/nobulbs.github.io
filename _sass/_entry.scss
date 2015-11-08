@@ -5,7 +5,7 @@
         text-align: center;
 
         @media #{$bp} {
-            margin-bottom: $treble-line;
+            margin-bottom: $line-and-a-half;
         }
 
     }
@@ -15,7 +15,6 @@
     	line-height: 1.2em;
         font-family: $secondary-font;
         font-style: italic;
-        font-weight: normal;
     }
 
     .entry-meta {
@@ -72,6 +71,7 @@
 
         @media #{$bp} {
             margin: $single-line 0 $single-line $double-line;
+            font-size: $size-3;
         }
 
     }

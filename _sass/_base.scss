@@ -34,7 +34,7 @@ main {
 }
 
 html {
-	background-color: $lgrey;
+	background-color: $background;
 	color: $dark;
 }
 
@@ -53,6 +53,7 @@ body {
 	@media #{$bp} {
 		margin: $single-line;
 		border-radius: $eighth-line;
+		border: 1px solid $lgrey;
 	}
 
 }
