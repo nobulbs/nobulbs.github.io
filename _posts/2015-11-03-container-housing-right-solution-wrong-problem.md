@@ -9,7 +9,7 @@ Impermanent, cheap housing isn't new. Prefabs sprouted up around the country aft
 
 <img src="/images/prefabs.jpg" alt="Prefabs in Ipswich">
 
-<figcaption class="figcaption">A &pound;160,000 prefab in Ipswich</figcaption>
+<figcaption class="figcaption">A &pound;160,000 prefab in Ipswich</p></figcaption>
 
 </figure>
 
@@ -21,7 +21,7 @@ The 2015 version of the prefab is a converted container. I imagine these may be 
 
 <img src="/images/containers.jpg" alt="Converted container block">
 
-<figcaption class="figcaption">Converted containers in Brighton</figcaption>
+<figcaption class="figcaption"><p>Converted containers in Brighton</p></figcaption>
 
 </figure>
 
