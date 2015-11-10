@@ -6,6 +6,7 @@ published: true
 
 
 
+
 OK, this is a bit of an experiment. I'm writing this post in [Cloudcannon](https://cloudcannon.com), which is synched up to my Github Pages No Bulbs account. At least, it should be.
 
 Why do this? Well, we like static sites for lots of reasons: they're quick, portable, secure and simple to set up. I've been using Jekyll for a few years now and wouldn't use a database driven CMS, given a realistic choice.
@@ -25,3 +26,5 @@ I need to spend a bit more time with it. But the client login didn't work either
 `prose.io` is another editor I'm trying on this post.
 
 Prose worked a lot better. Changes were instant and the login process simpler. You'd need a _little_ knowledge to handle front matter: adding `layout: post` to every blog post would seem odd. Perhaps there's a way round that.
+
+Quick conclusion: Prose would work well for a website team. Unless Cloudcannon fixes a few bugs, I'm not aware of anything that will work for clients.
