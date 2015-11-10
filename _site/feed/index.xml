@@ -3,12 +3,27 @@
     <title type="text" xml:lang="en">No Bulbs from Leon Paternoster</title>
     <link type="application/atom+xml" href="http://www.nobulbs.com.com/feed/" rel="self"/>
     <link type="text" href="http://www.nobulbs.com" rel="alternate"/>
-    <updated>2015-11-08T17:46:25+00:00</updated>
+    <updated>2015-11-10T20:32:56+00:00</updated>
     <id>http://leonpaternoster.com</id>
     <author>
         <name>Leon Paternoster</name>
     </author>
     <rights>Copyright (c) Leon Paternoster</rights>
+    
+    <entry>
+        <title>Using Cloudcannon, a web based, static site editor</title>
+        <link href="http://www.nobulbs.com/using-cloudcannon/"/>
+        <updated>2015-11-10T00:00:00+00:00</updated>
+        <id>http://www.nobulbs.com/using-cloudcannon//</id>
+        <content type="html">&lt;p&gt;OK, this is a bit of an experiment. I’m writing this post in &lt;a href=&quot;https://cloudcannon.com&quot;&gt;Cloudcannon&lt;/a&gt;, which is synched up to my Github Pages No Bulbs account. At least, it should be.&lt;/p&gt;
+
+&lt;p&gt;Why do this? Well, we like static sites for lots of reasons: they’re quick, portable, secure and simple to set up. I’ve been using Jekyll for a few years now and wouldn’t use a database driven CMS, given a realistic choice.&lt;/p&gt;
+
+&lt;p&gt;There are problems with handing over a Jekyll site to a client or web editor colleagues. You write posts in Markdown, build the site via the command line and upload the outputted files to your webspace (or push them to Github). It’s fairly complex. What we want is a nice visual editor and something that will do all the deployment in the background. Cloudcannon purports to do just that.&lt;/p&gt;
+
+&lt;p&gt;So, first things first. I’m writing this logged in as a developer using the code editor. That way I can add front matter. Next I’ll try editing logged in as normal editor, then I’ll add a new post. How will I add front matter?…&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Container housing &#8211; Right solution, wrong problem</title>
@@ -259,33 +274,6 @@
 &lt;p&gt;It’s a shame Kendall has sold herself as the Blairite candidate. Blairism is dead. It’s unforgivable, but perhaps unsurprising considering the years they’ve spent at the top of the party, that Yvette Cooper and Andy Burnham were unable to formulate any new vision or narrative for the party to get behind. Kendall is fresher, and does have some interesting, radical ideas. Perhaps her time will come again.&lt;/p&gt;
 
 &lt;p&gt;Instead, for better or worse, it looks like we’re going to get Jeremy Corbyn. God knows how that will end.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Occupy the centre, comrades</title>
-        <link href="http://www.nobulbs.com/occupy-deserted-centre-pragmatism/"/>
-        <updated>2015-07-26T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/occupy-deserted-centre-pragmatism//</id>
-        <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/politics/2015/may/09/tony-blair-labour-return-centre-ground-general-election-defeat&quot;&gt;British elections are won from the centre&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;But where is the centre? As in all things philosophical, the centre is a relative concept. It needs two poles to place itself between, namely the left and the right.&lt;/p&gt;
-
-&lt;p&gt;Of course, elections aren’t only won from the centre. What Blair meant was: elections are won by pragmatists who understand credibility.&lt;/p&gt;
-
-&lt;p&gt;He’s right, of course, but Blairite and Cleggian pragmatism also helped shift the centre towards the right. Not everyone likes that. It puts things out of kilter. You don’t have to be a Trot to think it leads to some downright &lt;a href=&quot;http://www.dailymail.co.uk/news/article-2523819/Plan-cap-benefit-children-New-mothers-children-lose-700-5bn-welfare-crackdown.html&quot;&gt;unpleasant consequences&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The movement you represent can only take so much of it. Hence the Jeremy Corbyn phenomenon.&lt;/p&gt;
-
-&lt;p&gt;Zizek notes this is an opportunity for what’s nostalgically termed the &lt;a href=&quot;http://www.newstatesman.com/politics/2015/07/Slavoj-Zizek-greece-chance-europe-awaken&quot;&gt;&lt;i&gt;hard left&lt;/i&gt; to occupy the old centre ground&lt;/a&gt;. And Corbyn is leading a merry dance into this &lt;a href=&quot;/the-last-liberal-centre-broke&quot;&gt;deserted liberal democrat land&lt;/a&gt;. &lt;a href=&quot;http://www.theguardian.com/politics/2015/jul/26/jeremy-corbyn-team-shocked-momentum&quot;&gt;See how happy this makes the troops&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;But beware: credibility and authenticity are not the same thing.&lt;/p&gt;
-
-&lt;p&gt;His opponents are panicking because they have absolutely no idea of how to respond – apart from moving deeper into the pragmatic right while mumbling &lt;a href=&quot;http://www.theguardian.com/commentisfree/2015/jul/25/liz-kendall-labour-can-win-power-and-keep-principles&quot;&gt;a few compassionate words&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;By definition mass electorates like things that come from the centre. Even the social democratic left, having shifted to the old centre right, could relearn this lesson.&lt;/p&gt;
-
-&lt;p&gt;The question is: can the centre be redefined? Or has it been destroyed? Is it merely rhetorical? That’s what a new Labour leader should explore.&lt;/p&gt;
 </content>
     </entry>
     
