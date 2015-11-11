@@ -12,4 +12,4 @@ You don't have to be a Marxist to make a connection between the general economic
 
 As we know, the centre has shifted. This is through a process of both redefining commonsense as it applies to _me_ rather than the country as a whole (I/we must pay off my debts), and allowing it to blindly dictate policy, even though [it makes absolutely no sense economically](http://mainlymacro.blogspot.co.uk/2015/11/where-would-you-get-money-from.html).
 
-I never fail to marvel at the [utter uselesness of the Labour party to redefine the centre](http://www.nobulbs.com/not-found-it-yet/); instead, it's left to former Liberal leaders and John Major to knock the ball into a wholly empty net, while our Cruddases and Danczuks _still_ bang on about _social policy when there is no money around_.
+I never fail to marvel at the [utter uselesness of the Labour party to redefine the centre](http://www.nobulbs.com/not-found-it-yet/); instead, it's left to former Liberal leaders, relatively sane Tories and John Major to knock the ball into a wholly empty net, while our Cruddases and Danczuks bang on about _social policy when there is no money around_.
