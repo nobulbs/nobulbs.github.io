@@ -10,6 +10,8 @@ We fear the machines taking over, the power of the algorithm. But the dangers do
 
 > But when publishers don’t sell ads themselves, they use third-party services to fill those remaining spots. Third-party services use an automated bidding system to match ads with websites, based on whom advertisers want to reach, which audiences different publishers serve, and what rates both parties are willing to accept. Advertisers can target increasingly specific user profiles based on information collected through cookies placed on a user’s computer. <cite>[To Fight Ad Blocking, Build Better Ads](http://niemanreports.org/articles/to-fight-ad-blocking-build-better-ads/)</cite>
 
+Automation is clearly the right tool for processing lots of information, such as branch library details. When it comes to making judgements it becomes more fuzzy. While Amazon can make suggestions based on what you've bought before you don't really want to offload your advertising to a machine, especially one owned by a shady third party.
+
 
 
 
