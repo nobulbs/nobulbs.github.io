@@ -12,10 +12,11 @@ We fear the machines taking over, the power of the algorithm. But the dangers do
 
 Automation is clearly the right tool for processing lots of information, such as branch library details. But when it comes to making judgements or adding value in some way, it becomes more fuzzy. While Amazon can make suggestions based on what you've bought before you don't really want to offload your advertising to a machine, especially one owned by a shady third party.
 
-My objection to overautomation isn't based solely on its accuracy or relevancy, although I would argue that big data isn't the panacea it's made out to be by its producers. While a list of, say, the 10 latest crime novels added to library stock or or the 10 most popular fantasy titles are useful, I'd value a curated list of recent crime novels more. After all, the algorithm can't tell how good a book is, or a bit of the plot that our local customers might find particulalrly interesting, or relate it to a cultural event.
+My objection to overautomation isn't based solely on its accuracy or relevancy, although I would argue that big data isn't the panacea it's made out to be by its producers. While a list of, say, the 10 latest crime novels added to library stock or or the 10 most popular fantasy titles are useful, I'd value a curated list of recent crime novels more. After all, the algorithm can't tell me how good a book is, or a bit of the plot that our local customers might find particularly interesting, or give it a cultural slant unless there are infinite amounts of meta data attached to the title &#8211; a huge job in and of itself.
 
-No, there's a question of trust and brand here. We _know_ the humans who curate our book lists; we can even go into the library and talk to them. You could argue this is the greatest advantage libraries have over the likes of Google and Amazon: we're humans you know and trust.
+No, there's a question of trust and brand here. We _know_ the humans who curate our book lists; we can even go into the library and talk to them. You could argue this is the greatest advantage libraries have over the likes of Google and Amazon: we're humans you know and trust. We're not flogging you anything.
 
+Unfortunately, we see this overautomation creeping into the library world. While library management systems are a million miles from being able to produce vaguely useful algorithms, ideas such as Open Plus gain traction. We need to be wary of reducing libraries to spaces that simply dispense books, especially when I can order a bestseller from Amazon and have it on my Kindle in 3 clicks and 30 seconds, or at my house the same day. We shouldn't be complicit in the destruction of libraries.
 
 
 
