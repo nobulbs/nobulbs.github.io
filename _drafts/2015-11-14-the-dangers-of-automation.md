@@ -16,7 +16,9 @@ My objection to overautomation isn't based solely on its accuracy or relevancy, 
 
 No, there's a question of trust and brand here. We _know_ the humans who curate our book lists; we can even go into the library and talk to them. You could argue this is the greatest advantage libraries have over the likes of Google and Amazon: we're humans you know and trust. We're not flogging you anything.
 
-Unfortunately, we see this overautomation creeping into the library world. While library management systems are a million miles from being able to produce vaguely useful algorithms, ideas such as Open Plus gain traction. We need to be wary of reducing libraries to spaces that simply dispense books, especially when I can order a bestseller from Amazon and have it on my Kindle in 3 clicks and 30 seconds, or at my house the same day. We shouldn't be complicit in the destruction of libraries.
+Unfortunately, we see this overautomation creeping into the library world. While library management systems are a million miles from being able to produce vaguely useful algorithms, ideas such as Open Plus gain traction. We need to be wary of reducing libraries to spaces that simply dispense books, especially when I can order a bestseller from Amazon and have it on my Kindle in 3 clicks and 30 seconds, or at my house the same day. Removing staff from libraries is simply a step in closing them altogether.
+
+
 
 
 
