@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The dangers of not opposing
 layout: post
 ---
