@@ -1,5 +1,7 @@
 ---
 published: false
+title: The dangers of not opposing
+layout: post
 ---
 
 Gideon is in trouble &#8211; or rather, Gideon should be in trouble.
