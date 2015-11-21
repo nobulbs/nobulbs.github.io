@@ -4,8 +4,6 @@ layout: post
 title: The dangers of automation (making the trip to library worthwhile)
 ---
 
-
-
 Software automates, which can save us time, money and tedium. We have software that loops through library data, prints a list of all the branches and generates a web page for each one displaying its address, opening hours and events. If we had to do this manually it'd be a full time job (and a boring one at that).
 
 However, we fear the machines taking over in the future, the power of the algorithm. But the dangers don't just lie in underemployment or the future: automating the wrong things is already causing more complex problems. The mess that newspapers have got themselves in over advertising and performance are down to offloading their advertising to some machine somewhere or other:
