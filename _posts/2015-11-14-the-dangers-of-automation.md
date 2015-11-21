@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The dangers of automation (making the trip to library worthwhile)
 ---
