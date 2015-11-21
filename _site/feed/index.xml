@@ -3,13 +3,34 @@
     <title type="text" xml:lang="en">No Bulbs from Leon Paternoster</title>
     <link type="application/atom+xml" href="http://www.nobulbs.com.com/feed/" rel="self"/>
     <link type="text" href="http://www.nobulbs.com" rel="alternate"/>
-    <updated>2015-11-14T10:08:32+00:00</updated>
+
+    <updated>2015-11-19T09:55:46+00:00</updated>
+
     <id>http://leonpaternoster.com</id>
     <author>
         <name>Leon Paternoster</name>
     </author>
     <rights>Copyright (c) Leon Paternoster</rights>
-    
+
+    <entry>
+        <title>The vacant centre (part III)</title>
+        <link href="http://www.nobulbs.com/the-vacant-centre-part-3/"/>
+        <updated>2015-11-11T00:00:00+00:00</updated>
+        <id>http://www.nobulbs.com/the-vacant-centre-part-3//</id>
+        <content type="html">&lt;p&gt;One nation Conservatives. A rare breed in my lifetime, they’re now all but extinct. So while the upper echelons of the Tory party are generally more socially liberal than they were 20-30 years ago, they’re economically far more hawkish.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to be a Marxist to make a connection between the general economic situation of the country and the welfare of its citizens, as John Major notes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everyone in receipt of benefits is not a scrounger. Of course idlers and scroungers exist – and governments are entirely right to root out the cheats who rip off the taxpayer. But the focus must not be only on those who abuse the system; we need equal concentration on those who are failed by the system. &lt;cite&gt;&lt;a href=&quot;http://www.theguardian.com/politics/2015/nov/11/john-major-blasts-shocking-inequality-levels-in-britain&quot;&gt;‘Shocking’ inequality levels in Britain must be addressed, says John Major&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As we know, the centre has shifted. This is through a process of both redefining commonsense as it applies to &lt;em&gt;me&lt;/em&gt; rather than the country as a whole (I/we must pay off my debts), and allowing it to blindly dictate policy, even though &lt;a href=&quot;http://mainlymacro.blogspot.co.uk/2015/11/where-would-you-get-money-from.html&quot;&gt;it makes absolutely no sense economically&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I never fail to marvel at the &lt;a href=&quot;http://www.nobulbs.com/not-found-it-yet/&quot;&gt;utter uselesness of the Labour party to redefine the centre&lt;/a&gt;; instead, it’s left to former Liberal leaders, relatively sane Tories and John Major to knock the ball into a wholly empty net, while our Cruddases and Danczuks bang on about &lt;em&gt;social policy when there is no money around&lt;/em&gt;.&lt;/p&gt;
+</content>
+    </entry>
+
     <entry>
         <title>Using Cloudcannon, a web based, static site editor</title>
         <link href="http://www.nobulbs.com/using-cloudcannon/"/>
@@ -22,9 +43,23 @@
 &lt;p&gt;There are problems with handing over a Jekyll site to a client or web editor colleagues. You write posts in Markdown, build the site via the command line and upload the outputted files to your webspace (or push them to Github). It’s fairly complex. What we want is a nice visual editor and something that will do all the deployment in the background. Cloudcannon purports to do just that.&lt;/p&gt;
 
 &lt;p&gt;So, first things first. I’m writing this logged in as a developer using the code editor. That way I can add front matter. Next I’ll try editing logged in as normal editor, then I’ll add a new post. How will I add front matter?…&lt;/p&gt;
+
+&lt;h2 id=&quot;first-impressions&quot;&gt;First impressions&lt;/h2&gt;
+
+&lt;p&gt;Cloudcannon was a bit flakey. I suspect this is partly down to Github not publishing updates straight away, which is often the case even when you push changes via the command line. But I found I couldn’t delete a file without pulling the repo, making changes on my PC and pushing them back in the normal way.&lt;/p&gt;
+
+&lt;p&gt;I need to spend a bit more time with it. But the client login didn’t work either.&lt;/p&gt;
+
+&lt;h2 id=&quot;prose&quot;&gt;Prose&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;prose.io&lt;/code&gt; is another editor I’m trying on this post.&lt;/p&gt;
+
+&lt;p&gt;Prose worked a lot better. Changes were instant and the login process simpler. You’d need a &lt;em&gt;little&lt;/em&gt; knowledge to handle front matter: adding &lt;code&gt;layout: post&lt;/code&gt; to every blog post would seem odd. Perhaps there’s a way round that.&lt;/p&gt;
+
+&lt;p&gt;Quick conclusion: Prose would work well for a website team. Unless Cloudcannon fixes a few bugs, I’m not aware of anything that will work for clients.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Container housing &#8211; Right solution, wrong problem</title>
         <link href="http://www.nobulbs.com/container-housing-right-solution-wrong-problem/"/>
@@ -61,7 +96,7 @@
 &lt;p&gt;Containers may seem a smart, inexpensive solution to a pressing problem, but that’s only the case when you’re failing miserably on so many other fronts: housing, for one, but also income, employment and the cost of living. And that’s all before you even tackle the question of  people living in metal boxes.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Old Zizek</title>
         <link href="http://www.nobulbs.com/old-zizek/"/>
@@ -86,7 +121,7 @@
 &lt;p&gt;Nietzsche’s objection to Marx was that he had a Christian, teleological view of the world. When you lose sight of paradise conservatism creeps in. Note Zizek’s views on Europe and immigration.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Haven't found it yet</title>
         <link href="http://www.nobulbs.com/not-found-it-yet/"/>
@@ -113,7 +148,7 @@
 &lt;p&gt;How will this end? In some ways you feel the Tories will, true to form, merrily commit suicide over tax credits or Europe. But there needs to be a cogent, credible opposition that can talk to people in terms they understand and trust. At the moment it’s hard to see where that’ll come from.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>New Old Labour Old New Danger</title>
         <link href="http://www.nobulbs.com/new-old-labour-danger/"/>
@@ -132,7 +167,7 @@
 &lt;p&gt;Got that wrong, the Tories. Not sure it’ll work with Corbyn, but would be sensible to quietly drop the leaving NATO staff…&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Murder in the cathedral &#8211; on Labour's tragedy (more Hamlet, really)</title>
         <link href="http://www.nobulbs.com/murder-in-the-cathedral/"/>
@@ -154,7 +189,7 @@
 &lt;/ul&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Show me the Next &#8211; genius concept, needs better content</title>
         <link href="http://www.nobulbs.com/show-me-the-next/"/>
@@ -179,7 +214,7 @@
 &lt;p&gt;What content could work? Fiction? In depth, insider articles on, say, economics? I could get it built in a couple of hours…&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Why my website looks so plain</title>
         <link href="http://www.nobulbs.com/why-my-site-is-so-simple/"/>
@@ -200,7 +235,7 @@
 &lt;p&gt;Maybe I’ll get lucky and you’ll like a minimalist look. A lot of people do. Or maybe I’ll change things around a bit. Or maybe you’ll get into these articles and start using this site rather than glancing at it. Who knows.&lt;/p&gt;
 </content>
     </entry>
-    
+
     <entry>
         <title>Ambiguity</title>
         <link href="http://www.nobulbs.com/ambiguity/"/>
@@ -217,64 +252,5 @@
 &lt;p&gt;Not sure where that leaves didactic writers who are masters of ambiguity. Perhaps that’s Tolstoy’s strength?&lt;/p&gt;
 </content>
     </entry>
-    
-    <entry>
-        <title>Liz Kendall, an apology (and an appreciation of some of her ideas)</title>
-        <link href="http://www.nobulbs.com/liz-kendall-apology-and-appreciation/"/>
-        <updated>2015-08-15T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/liz-kendall-apology-and-appreciation//</id>
-        <content type="html">&lt;p&gt;I (we) owe Liz Kendall an apology. Firstly, &lt;a href=&quot;http://www.theguardian.com/politics/2015/aug/15/liz-kendall-labour-supporters-should-be-called-out-over-vitriolic-online-abuse&quot;&gt;she’s right to call out some party members on the tone of their criticism of her&lt;/a&gt;; it’s downright unpleasant, often sexist, and jars with Jeremy Corbyn’s &lt;em&gt;we don’t do personal&lt;/em&gt; message. It really is very fucking personal, and a gruesome glimpse into a certain left psyche.&lt;/p&gt;
 
-&lt;p&gt;Now, I’m not entirely unguilty, and was quick to join in with the &lt;a href=&quot;/labours-constituency/&quot;&gt;&lt;em&gt;she’s a Tory&lt;/em&gt; name calling&lt;/a&gt;. Liz Kendall is not a Tory. Unfortunately, she made a catastrophic tactical error by setting herself against the traditional Labour party membership so staunchly from the outset – ironic, considering her radical ideas on devolution.&lt;/p&gt;
-
-&lt;p&gt;We’re the people who’ll vote (or probably not vote) for her, and the centralised, Blairite command and control approach hasn’t won an election for a decade. Who are the party leaders to tell us where we’ve gone wrong?&lt;/p&gt;
-
-&lt;p&gt;Secondly, and more importantly, we’ve missed out on some interesting policy ideas. One criticism you could make of Corbyn is that there’s not much devolution in his world view; in that sense it represents &lt;a href=&quot;http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2015/07/on-corbynomics.html&quot;&gt;a continuation of centralised managerialism, just with a different set of bosses&lt;/a&gt;. And Kendall is, I think, quite interesting here.&lt;/p&gt;
-
-&lt;h2 id=&quot;leading-labour&quot;&gt;Leading Labour&lt;/h2&gt;
-
-&lt;p&gt;I’ve published &lt;a href=&quot;/liz-kendall&quot;&gt;Kendall’s &lt;cite&gt;Leading Labour&lt;/cite&gt;&lt;/a&gt; statement. Here are my thoughts.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-big-idea-is-devolution&quot;&gt;The big idea is devolution&lt;/h3&gt;
-
-&lt;p&gt;And I like this. A lot!&lt;/p&gt;
-
-&lt;p&gt;I work for a divested mutual and we provide Suffolk a better library service than when we were a part of the County Council. We can make what we think are sensible decisions and act on them quickly (most of the time – the council signed a 5 year contract with our library management system provider back in 2012, so we’re stuck with that until 2017. We won’t be signing 5 year contracts for antiquated software in the future.)&lt;/p&gt;
-
-&lt;p&gt;We’re a lot better than a Serco or Capita. And because we make smarter decisions outside of some insane, bureacratic framework, we save money too. Unlike Suffolk County Council, we also pay the living wage.&lt;/p&gt;
-
-&lt;p&gt;The left really should welcome the idea of smaller, devolved, mutuals, and Kendall does differentiate this from risible big society ideas:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Tories claim they want to devolve power throughout Britain. Yet they fail to match new responsibilities for councils with the resources and fair funding councils require. And the Treasury still controls everything including insisting combined authorities have elected mayors, whether local people want them or not. But Labour has been too timid on devolution in the past, and too slow to seize this agenda for our own.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As leader I will champion a new, comprehensive, nationwide model of devolution within the nations of the United Kingdom, including England. That means working with our cities, towns and counties to help them take on more power and responsibility over welfare, housing, health, education, transport and economic growth. Under my leadership, local authorities will be equal partners with ministers agreeing a new settlement for devolved powers and responsibilities every Treasury budget cycle.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;To tackle the real inequalities of wealth, opportunity and power that we face, Britain must undergo a radical and vast devolution of where power and decision making lies.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you’re a socialist it must be hard to disagree with a devolved, mutual view of the world, no?&lt;/p&gt;
-
-&lt;h3 id=&quot;slayed-by-the-ghost-of-the-austerians&quot;&gt;Slayed by the Ghost of the Austerians&lt;/h3&gt;
-
-&lt;p&gt;Of course, events have completely overtaken Kendall (and Cooper and Burnham). Corbyn has grasped the austerity nettle which means – incredibly – he’ll win the leadership contest.&lt;/p&gt;
-
-&lt;p&gt;Making &lt;a href=&quot;http://www.theguardian.com/politics/2015/jun/10/labours-liz-kendall-i-have-no-problem-aiming-for-budget-surplus&quot;&gt;silly, tactical noises to the electorate as a whole about ‘tackling the deficit’&lt;/a&gt; straight after an election defeat was a catastrophic mistake. All the leadership contenders should have addressed (no, &lt;em&gt;courted&lt;/em&gt;) the party and its natural constituency of public sector workers, the low paid, the unemployed, students, academics and liberals. Like I say, we’re the people choosing the leader, not the couldn’t-care-less voters of Ipswich, Lowestoft and Clacton.&lt;/p&gt;
-
-&lt;p&gt;We’re not stupid. We don’t &lt;em&gt;believe&lt;/em&gt; Osborne when he talks about managing the economy well. We know how harmful he is. We &lt;em&gt;need&lt;/em&gt; to at least &lt;em&gt;discuss&lt;/em&gt; an alternative beyond &lt;em&gt;we can’t do anything until we get into power and this is the only way to win elections&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Kendall notes &lt;q&gt;[The Tories] fail to match new responsibilities for councils with the resources and fair funding councils require&lt;/q&gt;, which is of course right. Although we’re more efficient than the previous library regime, we won’t be able to invest in, or maintain, the service if the Council continues to cut our funding every single year.&lt;/p&gt;
-
-&lt;p&gt;But devolution in and of itself won’t cure that problem; tackling low productivity, lack of investment and underemployment will. Being a deficit fetishist will just make things worse.&lt;/p&gt;
-
-&lt;p&gt;It’s a shame Kendall has sold herself as the Blairite candidate. Blairism is dead. It’s unforgivable, but perhaps unsurprising considering the years they’ve spent at the top of the party, that Yvette Cooper and Andy Burnham were unable to formulate any new vision or narrative for the party to get behind. Kendall is fresher, and does have some interesting, radical ideas. Perhaps her time will come again.&lt;/p&gt;
-
-&lt;p&gt;Instead, for better or worse, it looks like we’re going to get Jeremy Corbyn. God knows how that will end.&lt;/p&gt;
-</content>
-    </entry>
-    
 </feed>
