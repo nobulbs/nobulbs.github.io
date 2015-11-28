@@ -3,15 +3,72 @@
     <title type="text" xml:lang="en">No Bulbs from Leon Paternoster</title>
     <link type="application/atom+xml" href="http://www.nobulbs.com.com/feed/" rel="self"/>
     <link type="text" href="http://www.nobulbs.com" rel="alternate"/>
-
-    <updated>2015-11-19T09:55:46+00:00</updated>
-
+    <updated>2015-11-28T20:34:50+00:00</updated>
     <id>http://leonpaternoster.com</id>
     <author>
         <name>Leon Paternoster</name>
     </author>
     <rights>Copyright (c) Leon Paternoster</rights>
+    
+    <entry>
+        <title>Overcoming Labour</title>
+        <link href="http://www.nobulbs.com/overcoming-labour/"/>
+        <updated>2015-11-28T00:00:00+00:00</updated>
+        <id>http://www.nobulbs.com/overcoming-labour//</id>
+        <content type="html">&lt;p&gt;Labour needs to overcome itself. At least the Labour that’s failed to win an election for a decade, and the Labour that failed to win an election between 1975 and 1997.&lt;/p&gt;
 
+&lt;p&gt;And that means overcoming both new and old Labour. We sort of did for Brown/Blairism when we elected Jeremy Corbyn; unfortunately, we didn’t know what a new new Labour would look like and, fed up with triangulation and spineless focus group politics, went back to 1985. Literally – even Ken Livingstone and John McDonnell are among us (I actually like McDonnell, incidentally; far more than Corbyn and some Danczukian careerist, but that’s beside the point).&lt;/p&gt;
+
+&lt;p&gt;As Nietzsche taught us, overcoming is &lt;em&gt;hard&lt;/em&gt;, especially overcoming &lt;em&gt;oneself&lt;/em&gt;. It’ll take a blooodbath, a revaluation; but out of that – hopefully – will come strong.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>The dangers of not opposing</title>
+        <link href="http://www.nobulbs.com/the-dangers-of-not-opposing/"/>
+        <updated>2015-11-21T00:00:00+00:00</updated>
+        <id>http://www.nobulbs.com/the-dangers-of-not-opposing//</id>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/business/2015/nov/20/worst-uk-deficit-figures-six-years-george-osborne&quot;&gt;Gideon is in trouble&lt;/a&gt; – or rather, Gideon should be in trouble.&lt;/p&gt;
+
+&lt;p&gt;In fact, Gideon should have been in trouble for years. He’s not made one deficit reduction target since 2010.&lt;/p&gt;
+
+&lt;p&gt;Something will have to give if he wants to continue the facade of “paying off our debts”. He’ll need to increase taxes or make further spending cuts. He’s got even less room to dig himself out of his tax credits hole.&lt;/p&gt;
+
+&lt;p&gt;Or maybe not. After all, this is the man who was able to claim a huge strategic victory by announcing a legal living wage, even when it was clear the sums didn’t add up. Perhaps he’ll show enough &lt;em&gt;chutzpah&lt;/em&gt; to increase spending, or to turn on the investment taps.&lt;/p&gt;
+
+&lt;p&gt;It’s incredible he’s able to get away with it. But that’s the price of not opposing. Because if you’ve supported Gideon for 5 years against the wishes of your own party and any rational concept of economics; when you’ve helped propagate a moronic metaphor of household debt, you have nowehere to turn when it all goes wrong.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>The dangers of automation (making the trip to library worthwhile)</title>
+        <link href="http://www.nobulbs.com/the-dangers-of-automation/"/>
+        <updated>2015-11-21T00:00:00+00:00</updated>
+        <id>http://www.nobulbs.com/the-dangers-of-automation//</id>
+        <content type="html">&lt;p&gt;Software automates, which can save us time, money and tedium. We have software that loops through library data, prints a list of all the branches and generates a web page for each one displaying its address, opening hours and events. If we had to do this manually it’d be a full time job (and a boring one at that).&lt;/p&gt;
+
+&lt;p&gt;However, we fear the machines taking over in the future, the power of the algorithm. But the dangers don’t just lie in underemployment or the future: automating the wrong things is already causing more complex problems. The mess that newspapers have got themselves in over advertising and performance are down to offloading their advertising to some machine somewhere or other:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But when publishers don’t sell ads themselves, they use third-party services to fill those remaining spots. Third-party services use an automated bidding system to match ads with websites, based on whom advertisers want to reach, which audiences different publishers serve, and what rates both parties are willing to accept. Advertisers can target increasingly specific user profiles based on information collected through cookies placed on a user’s computer. &lt;cite&gt;&lt;a href=&quot;http://niemanreports.org/articles/to-fight-ad-blocking-build-better-ads/&quot;&gt;To Fight Ad Blocking, Build Better Ads&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Automation is clearly the right tool for processing lots of information, such as branch library details. But when it comes to making judgements or adding value in some way, it becomes more fuzzy. While Amazon can make useful suggestions based on what you and others have browsed and bought before you don’t really want to offload your advertising to a machine, especially one owned by a shady third party.&lt;/p&gt;
+
+&lt;p&gt;My objection to overautomation isn’t based solely on its accuracy or relevancy, although I would argue that big data isn’t the panacea its producers make it out to be. When it comes to library websites, a list of, say, the 10 latest crime novels added to library stock or the 10 most popular fantasy titles are useful, but I’d value a curated list of recent crime novels more.&lt;/p&gt;
+
+&lt;p&gt;After all, the algorithm can only suggest a book by analysing borrower and meta data. It has no idea that a bit of the plot is particularly interesting to local customers, or that it could be linked to a local event unless someone, somewhere has attached impossible amounts of complex meta data to it.&lt;/p&gt;
+
+&lt;p&gt;There’s a question of distance, trust and brand here. We &lt;em&gt;know&lt;/em&gt; the humans who curate our book lists; we can even go into the library and talk to them. They’re a part of our community. In fact, this is the main advantage libraries have over the likes of Google and Amazon: we’re people you know and can relate to. We’re not flogging you anything, either.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, we see overautomation creeping into the library world. While library management systems are a million miles from being able to produce complex algorithms, ideas such as &lt;a href=&quot;http://www.bibliotheca.com/3/index.php/en-uk/our-solutions/24-hour-library-open&quot;&gt;Open+&lt;/a&gt; are used to replace library staff rather than extend opening hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We need to be wary of reducing libraries to places that just dispense books&lt;/strong&gt;. I can order a bestseller from Amazon and have it on my Kindle in 3 clicks and 30 seconds, or at my house the same day. Travelling to a library and borrowing the same book involves far more effort, and I’ll have to make my way back to the library and return it in 3 weeks.&lt;/p&gt;
+
+&lt;p&gt;What libraries can offer over Amazon – and what makes that journey worthwhile – is a combination of environment, experience and expertise, and that means good staff. Removing people from libraries is simply a step on the path to closing them.&lt;/p&gt;
+</content>
+    </entry>
+    
     <entry>
         <title>The vacant centre (part III)</title>
         <link href="http://www.nobulbs.com/the-vacant-centre-part-3/"/>
@@ -30,7 +87,7 @@
 &lt;p&gt;I never fail to marvel at the &lt;a href=&quot;http://www.nobulbs.com/not-found-it-yet/&quot;&gt;utter uselesness of the Labour party to redefine the centre&lt;/a&gt;; instead, it’s left to former Liberal leaders, relatively sane Tories and John Major to knock the ball into a wholly empty net, while our Cruddases and Danczuks bang on about &lt;em&gt;social policy when there is no money around&lt;/em&gt;.&lt;/p&gt;
 </content>
     </entry>
-
+    
     <entry>
         <title>Using Cloudcannon, a web based, static site editor</title>
         <link href="http://www.nobulbs.com/using-cloudcannon/"/>
@@ -59,7 +116,7 @@
 &lt;p&gt;Quick conclusion: Prose would work well for a website team. Unless Cloudcannon fixes a few bugs, I’m not aware of anything that will work for clients.&lt;/p&gt;
 </content>
     </entry>
-
+    
     <entry>
         <title>Container housing &#8211; Right solution, wrong problem</title>
         <link href="http://www.nobulbs.com/container-housing-right-solution-wrong-problem/"/>
@@ -96,7 +153,7 @@
 &lt;p&gt;Containers may seem a smart, inexpensive solution to a pressing problem, but that’s only the case when you’re failing miserably on so many other fronts: housing, for one, but also income, employment and the cost of living. And that’s all before you even tackle the question of  people living in metal boxes.&lt;/p&gt;
 </content>
     </entry>
-
+    
     <entry>
         <title>Old Zizek</title>
         <link href="http://www.nobulbs.com/old-zizek/"/>
@@ -121,7 +178,7 @@
 &lt;p&gt;Nietzsche’s objection to Marx was that he had a Christian, teleological view of the world. When you lose sight of paradise conservatism creeps in. Note Zizek’s views on Europe and immigration.&lt;/p&gt;
 </content>
     </entry>
-
+    
     <entry>
         <title>Haven't found it yet</title>
         <link href="http://www.nobulbs.com/not-found-it-yet/"/>
@@ -148,7 +205,7 @@
 &lt;p&gt;How will this end? In some ways you feel the Tories will, true to form, merrily commit suicide over tax credits or Europe. But there needs to be a cogent, credible opposition that can talk to people in terms they understand and trust. At the moment it’s hard to see where that’ll come from.&lt;/p&gt;
 </content>
     </entry>
-
+    
     <entry>
         <title>New Old Labour Old New Danger</title>
         <link href="http://www.nobulbs.com/new-old-labour-danger/"/>
@@ -167,7 +224,7 @@
 &lt;p&gt;Got that wrong, the Tories. Not sure it’ll work with Corbyn, but would be sensible to quietly drop the leaving NATO staff…&lt;/p&gt;
 </content>
     </entry>
-
+    
     <entry>
         <title>Murder in the cathedral &#8211; on Labour's tragedy (more Hamlet, really)</title>
         <link href="http://www.nobulbs.com/murder-in-the-cathedral/"/>
@@ -189,68 +246,5 @@
 &lt;/ul&gt;
 </content>
     </entry>
-
-    <entry>
-        <title>Show me the Next &#8211; genius concept, needs better content</title>
-        <link href="http://www.nobulbs.com/show-me-the-next/"/>
-        <updated>2015-09-06T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/show-me-the-next//</id>
-        <content type="html">&lt;p&gt;&lt;a href=&quot;http://showmethenext.com/&quot;&gt;Show me the Next&lt;/a&gt; is an incredibly simple app (or rather, an incredibly simple website). You visit, it displays an article and you press a button and it displays another article.&lt;/p&gt;
-
-&lt;p&gt;That’s it. There’s &lt;a href=&quot;http://showmethenext.com/wp-content/themes/smtn/style.css&quot;&gt;next to no styling&lt;/a&gt; – &lt;a href=&quot;/why-my-site-is-so-simple/&quot;&gt;even less than this website’s&lt;/a&gt; – and no navigation or archives.&lt;/p&gt;
-
-&lt;p&gt;I admit to liking this idea (it reminds me of &lt;cite&gt;&lt;a href=&quot;http://guardian.gyford.com/&quot;&gt;Today’s Guardian&lt;/a&gt;&lt;/cite&gt;), although I’m not so sure there’s really ever a time when you just want something, anything to read without exercising &lt;em&gt;some&lt;/em&gt; choice. &lt;cite&gt;Nieman Journalism Lab&lt;/cite&gt; reckons there might be:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;You’re on a long escalator with a phone in hand, and you want to thumb through something interesting quickly, without having to look for it. You’re sitting in gridlock traffic and tired of radio. You don’t want to skim Twitter or Facebook — you only want one story at a time, you don’t want to have to search for anything, but you still want to be surprised. &lt;cite&gt;&lt;a href=&quot;http://www.niemanlab.org/2015/09/show-me-the-next-strips-down-online-reading-and-discovery-to-their-most-basic-components/&quot;&gt;Show Me The Next strips down online reading and discovery to their most basic components&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Perhaps that’s right, but you’d need to be an expert curator and have a pool of top quality writing to draw from. At the moment the articles are a little too random, with a lot of stuff from Wikipedia. I don’t think it’s compelling enough when you can dive into McSweeney’s or Longform or your RSS feed with a just a tad more effort.&lt;/p&gt;
-
-&lt;p&gt;Still, there’s potential in the idea, or at least the process and technology behind it. And that’s what I really like about &lt;cite&gt;Show me the Next&lt;/cite&gt;. Pretty much anyone can build a barebones WordPress theme and link it to, say, a Pocket account. No overheads, no maintenance, no app and, most importantly, no actual writing. It works everywhere. Just me, my site and my Pocket button. There’s some real &lt;em&gt;chutzpah&lt;/em&gt; in that.&lt;/p&gt;
-
-&lt;p&gt;And users don’t have to learn or think about anything at all. That’s always an interesting idea.&lt;/p&gt;
-
-&lt;p&gt;What content could work? Fiction? In depth, insider articles on, say, economics? I could get it built in a couple of hours…&lt;/p&gt;
-</content>
-    </entry>
-
-    <entry>
-        <title>Why my website looks so plain</title>
-        <link href="http://www.nobulbs.com/why-my-site-is-so-simple/"/>
-        <updated>2015-09-05T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/why-my-site-is-so-simple//</id>
-        <content type="html">&lt;p&gt;It does, doesn’t it? There are no decorative background images, no background gradients (or background colours, for that matter) and no animations. In fact, it barely looks styled at all (slightly misleading that: there are 14 files in my sass folder).&lt;/p&gt;
-
-&lt;p&gt;The reason’s quite simple. You don’t need any of that stuff to read articles on my blog. I &lt;em&gt;do&lt;/em&gt; put some effort into the things that make words easy or difficult to read on a screen. Body text is &lt;code&gt;23 pixels&lt;/code&gt; with a &lt;code&gt;32 pixel&lt;/code&gt; line height on a wide screen. The text is coloured &lt;code&gt;333&lt;/code&gt; rather than, say, &lt;code&gt;555&lt;/code&gt; on a white background. Lines won’t extend beyond &lt;code&gt;644 pixels&lt;/code&gt;. There’s a half line between paragraphs rather than a full line.&lt;/p&gt;
-
-&lt;p&gt;If I was using a different typeface from Freight Text Pro and these articles were 5,000 words long those numbers would be different so you could read just as easily.&lt;/p&gt;
-
-&lt;p&gt;I’m &lt;em&gt;constantly&lt;/em&gt; tweaking these settings. And because I’m always thinking about leading, measure, hierarchy and weight I get good at them. Not that you’d notice. The only thing you’d notice is a huge background image of a Macbook Pro.&lt;/p&gt;
-
-&lt;p&gt;I know that when you come to my site readability is the &lt;em&gt;only&lt;/em&gt; thing that matters.&lt;/p&gt;
-
-&lt;p&gt;I do need to think about background images, gradients, animations etc. when you’re looking to employ me. Things get tricky then, because you’ll be wondering whether I can do all those things that make your website &lt;em&gt;look&lt;/em&gt; right; when you’re looking at your own website not in terms of how well it works, but how it will impress your boss, peers and colleagues.&lt;/p&gt;
-
-&lt;p&gt;Maybe I’ll get lucky and you’ll like a minimalist look. A lot of people do. Or maybe I’ll change things around a bit. Or maybe you’ll get into these articles and start using this site rather than glancing at it. Who knows.&lt;/p&gt;
-</content>
-    </entry>
-
-    <entry>
-        <title>Ambiguity</title>
-        <link href="http://www.nobulbs.com/ambiguity/"/>
-        <updated>2015-09-02T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/ambiguity//</id>
-        <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;… language in general actually tends to the simplistic, offering a reductive account of what it seeks to represent – it could hardly be otherwise. Hence we prize someone who has managed to put into language, with its relentless and crude semantic segmentation of experience, some of the density and indeed perplexity we feel as we try to get a grip on what is going on around us. — Tim Parks &lt;cite&gt;&lt;a href=&quot;http://www.nybooks.com/blogs/nyrblog/2015/sep/01/clearing-up-ambiguity/&quot;&gt;Clearing up ambiguity&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Really liked this as it explains what makes writing &lt;em&gt;good&lt;/em&gt;. Writing that makes you skip back through the text and reassemble the words and their meaning; not becuase the sentence has been phrased clumsily, but because it offers several interpretations.&lt;/p&gt;
-
-&lt;p&gt;I’ve been wading through too much non–ambiguous writing recently, mostly horror. There’s a lot of existential ambiguity in Lovecraft, but the prose is tortuous rather than nuanced.&lt;/p&gt;
-
-&lt;p&gt;Not sure where that leaves didactic writers who are masters of ambiguity. Perhaps that’s Tolstoy’s strength?&lt;/p&gt;
-</content>
-    </entry>
-
+    
 </feed>
