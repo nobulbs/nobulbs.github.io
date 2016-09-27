@@ -3,7 +3,7 @@
     <title type="text" xml:lang="en">No Bulbs from Leon Paternoster</title>
     <link type="application/atom+xml" href="http://www.nobulbs.com.com/feed/" rel="self"/>
     <link type="text" href="http://www.nobulbs.com" rel="alternate"/>
-    <updated>2015-11-28T20:34:50+00:00</updated>
+    <updated>2016-09-27T16:24:09+01:00</updated>
     <id>http://leonpaternoster.com</id>
     <author>
         <name>Leon Paternoster</name>
@@ -11,239 +11,19 @@
     <rights>Copyright (c) Leon Paternoster</rights>
     
     <entry>
-        <title>Overcoming Labour</title>
-        <link href="http://www.nobulbs.com/overcoming-labour/"/>
-        <updated>2015-11-28T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/overcoming-labour//</id>
-        <content type="html">&lt;p&gt;Labour needs to overcome itself. At least the Labour that’s failed to win an election for a decade, and the Labour that failed to win an election between 1975 and 1997.&lt;/p&gt;
+        <title>Why you love horror stories and why Lovecraft is a nihilist but not in the way you think</title>
+        <link href="http://www.nobulbs.com/the-horror/"/>
+        <updated>2016-09-27T00:00:00+01:00</updated>
+        <id>http://www.nobulbs.com/the-horror//</id>
+        <content type="html">&lt;p&gt;Traditional explanations for liking horror stories —&lt;/p&gt;
 
-&lt;p&gt;And that means overcoming both new and old Labour. We sort of did for Brown/Blairism when we elected Jeremy Corbyn; unfortunately, we didn’t know what a new new Labour would look like and, fed up with triangulation and spineless focus group politics, went back to 1985. Literally – even Ken Livingstone and John McDonnell are among us (I actually like McDonnell, incidentally; far more than Corbyn and some Danczukian careerist, but that’s beside the point).&lt;/p&gt;
+&lt;p&gt;We like a vicarious scare, or we like a controlled scare i.e. one we know won’t do us any &lt;em&gt;real&lt;/em&gt; harm. Assumption: we don’t &lt;em&gt;really&lt;/em&gt; want to suffer from the ghost, the horror, what lurks in the darkness.&lt;/p&gt;
 
-&lt;p&gt;As Nietzsche taught us, overcoming is &lt;em&gt;hard&lt;/em&gt;, especially overcoming &lt;em&gt;oneself&lt;/em&gt;. It’ll take a blooodbath, a revaluation; but out of that – hopefully – will come strong.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>The dangers of not opposing</title>
-        <link href="http://www.nobulbs.com/the-dangers-of-not-opposing/"/>
-        <updated>2015-11-21T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/the-dangers-of-not-opposing//</id>
-        <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/business/2015/nov/20/worst-uk-deficit-figures-six-years-george-osborne&quot;&gt;Gideon is in trouble&lt;/a&gt; – or rather, Gideon should be in trouble.&lt;/p&gt;
+&lt;p&gt;Horror safely explores our nasty sides. You may like our nasty sides.&lt;/p&gt;
 
-&lt;p&gt;In fact, Gideon should have been in trouble for years. He’s not made one deficit reduction target since 2010.&lt;/p&gt;
+&lt;p&gt;Here’s another interpretation. What we really want is for all that horror to be true. Why? Because the alternative – that there’s no underlying, organising horror – is mind-numbling, tediously more terrifying. What horror shows us is a &lt;em&gt;better world&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Something will have to give if he wants to continue the facade of “paying off our debts”. He’ll need to increase taxes or make further spending cuts. He’s got even less room to dig himself out of his tax credits hole.&lt;/p&gt;
-
-&lt;p&gt;Or maybe not. After all, this is the man who was able to claim a huge strategic victory by announcing a legal living wage, even when it was clear the sums didn’t add up. Perhaps he’ll show enough &lt;em&gt;chutzpah&lt;/em&gt; to increase spending, or to turn on the investment taps.&lt;/p&gt;
-
-&lt;p&gt;It’s incredible he’s able to get away with it. But that’s the price of not opposing. Because if you’ve supported Gideon for 5 years against the wishes of your own party and any rational concept of economics; when you’ve helped propagate a moronic metaphor of household debt, you have nowehere to turn when it all goes wrong.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>The dangers of automation (making the trip to library worthwhile)</title>
-        <link href="http://www.nobulbs.com/the-dangers-of-automation/"/>
-        <updated>2015-11-21T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/the-dangers-of-automation//</id>
-        <content type="html">&lt;p&gt;Software automates, which can save us time, money and tedium. We have software that loops through library data, prints a list of all the branches and generates a web page for each one displaying its address, opening hours and events. If we had to do this manually it’d be a full time job (and a boring one at that).&lt;/p&gt;
-
-&lt;p&gt;However, we fear the machines taking over in the future, the power of the algorithm. But the dangers don’t just lie in underemployment or the future: automating the wrong things is already causing more complex problems. The mess that newspapers have got themselves in over advertising and performance are down to offloading their advertising to some machine somewhere or other:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;But when publishers don’t sell ads themselves, they use third-party services to fill those remaining spots. Third-party services use an automated bidding system to match ads with websites, based on whom advertisers want to reach, which audiences different publishers serve, and what rates both parties are willing to accept. Advertisers can target increasingly specific user profiles based on information collected through cookies placed on a user’s computer. &lt;cite&gt;&lt;a href=&quot;http://niemanreports.org/articles/to-fight-ad-blocking-build-better-ads/&quot;&gt;To Fight Ad Blocking, Build Better Ads&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Automation is clearly the right tool for processing lots of information, such as branch library details. But when it comes to making judgements or adding value in some way, it becomes more fuzzy. While Amazon can make useful suggestions based on what you and others have browsed and bought before you don’t really want to offload your advertising to a machine, especially one owned by a shady third party.&lt;/p&gt;
-
-&lt;p&gt;My objection to overautomation isn’t based solely on its accuracy or relevancy, although I would argue that big data isn’t the panacea its producers make it out to be. When it comes to library websites, a list of, say, the 10 latest crime novels added to library stock or the 10 most popular fantasy titles are useful, but I’d value a curated list of recent crime novels more.&lt;/p&gt;
-
-&lt;p&gt;After all, the algorithm can only suggest a book by analysing borrower and meta data. It has no idea that a bit of the plot is particularly interesting to local customers, or that it could be linked to a local event unless someone, somewhere has attached impossible amounts of complex meta data to it.&lt;/p&gt;
-
-&lt;p&gt;There’s a question of distance, trust and brand here. We &lt;em&gt;know&lt;/em&gt; the humans who curate our book lists; we can even go into the library and talk to them. They’re a part of our community. In fact, this is the main advantage libraries have over the likes of Google and Amazon: we’re people you know and can relate to. We’re not flogging you anything, either.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, we see overautomation creeping into the library world. While library management systems are a million miles from being able to produce complex algorithms, ideas such as &lt;a href=&quot;http://www.bibliotheca.com/3/index.php/en-uk/our-solutions/24-hour-library-open&quot;&gt;Open+&lt;/a&gt; are used to replace library staff rather than extend opening hours.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We need to be wary of reducing libraries to places that just dispense books&lt;/strong&gt;. I can order a bestseller from Amazon and have it on my Kindle in 3 clicks and 30 seconds, or at my house the same day. Travelling to a library and borrowing the same book involves far more effort, and I’ll have to make my way back to the library and return it in 3 weeks.&lt;/p&gt;
-
-&lt;p&gt;What libraries can offer over Amazon – and what makes that journey worthwhile – is a combination of environment, experience and expertise, and that means good staff. Removing people from libraries is simply a step on the path to closing them.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>The vacant centre (part III)</title>
-        <link href="http://www.nobulbs.com/the-vacant-centre-part-3/"/>
-        <updated>2015-11-11T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/the-vacant-centre-part-3//</id>
-        <content type="html">&lt;p&gt;One nation Conservatives. A rare breed in my lifetime, they’re now all but extinct. So while the upper echelons of the Tory party are generally more socially liberal than they were 20-30 years ago, they’re economically far more hawkish.&lt;/p&gt;
-
-&lt;p&gt;You don’t have to be a Marxist to make a connection between the general economic situation of the country and the welfare of its citizens, as John Major notes:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Everyone in receipt of benefits is not a scrounger. Of course idlers and scroungers exist – and governments are entirely right to root out the cheats who rip off the taxpayer. But the focus must not be only on those who abuse the system; we need equal concentration on those who are failed by the system. &lt;cite&gt;&lt;a href=&quot;http://www.theguardian.com/politics/2015/nov/11/john-major-blasts-shocking-inequality-levels-in-britain&quot;&gt;‘Shocking’ inequality levels in Britain must be addressed, says John Major&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As we know, the centre has shifted. This is through a process of both redefining commonsense as it applies to &lt;em&gt;me&lt;/em&gt; rather than the country as a whole (I/we must pay off my debts), and allowing it to blindly dictate policy, even though &lt;a href=&quot;http://mainlymacro.blogspot.co.uk/2015/11/where-would-you-get-money-from.html&quot;&gt;it makes absolutely no sense economically&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I never fail to marvel at the &lt;a href=&quot;http://www.nobulbs.com/not-found-it-yet/&quot;&gt;utter uselesness of the Labour party to redefine the centre&lt;/a&gt;; instead, it’s left to former Liberal leaders, relatively sane Tories and John Major to knock the ball into a wholly empty net, while our Cruddases and Danczuks bang on about &lt;em&gt;social policy when there is no money around&lt;/em&gt;.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Using Cloudcannon, a web based, static site editor</title>
-        <link href="http://www.nobulbs.com/using-cloudcannon/"/>
-        <updated>2015-11-10T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/using-cloudcannon//</id>
-        <content type="html">&lt;p&gt;OK, this is a bit of an experiment. I’m writing this post in &lt;a href=&quot;https://cloudcannon.com&quot;&gt;Cloudcannon&lt;/a&gt;, which is synched up to my Github Pages No Bulbs account. At least, it should be.&lt;/p&gt;
-
-&lt;p&gt;Why do this? Well, we like static sites for lots of reasons: they’re quick, portable, secure and simple to set up. I’ve been using Jekyll for a few years now and wouldn’t use a database driven CMS, given a realistic choice.&lt;/p&gt;
-
-&lt;p&gt;There are problems with handing over a Jekyll site to a client or web editor colleagues. You write posts in Markdown, build the site via the command line and upload the outputted files to your webspace (or push them to Github). It’s fairly complex. What we want is a nice visual editor and something that will do all the deployment in the background. Cloudcannon purports to do just that.&lt;/p&gt;
-
-&lt;p&gt;So, first things first. I’m writing this logged in as a developer using the code editor. That way I can add front matter. Next I’ll try editing logged in as normal editor, then I’ll add a new post. How will I add front matter?…&lt;/p&gt;
-
-&lt;h2 id=&quot;first-impressions&quot;&gt;First impressions&lt;/h2&gt;
-
-&lt;p&gt;Cloudcannon was a bit flakey. I suspect this is partly down to Github not publishing updates straight away, which is often the case even when you push changes via the command line. But I found I couldn’t delete a file without pulling the repo, making changes on my PC and pushing them back in the normal way.&lt;/p&gt;
-
-&lt;p&gt;I need to spend a bit more time with it. But the client login didn’t work either.&lt;/p&gt;
-
-&lt;h2 id=&quot;prose&quot;&gt;Prose&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;prose.io&lt;/code&gt; is another editor I’m trying on this post.&lt;/p&gt;
-
-&lt;p&gt;Prose worked a lot better. Changes were instant and the login process simpler. You’d need a &lt;em&gt;little&lt;/em&gt; knowledge to handle front matter: adding &lt;code&gt;layout: post&lt;/code&gt; to every blog post would seem odd. Perhaps there’s a way round that.&lt;/p&gt;
-
-&lt;p&gt;Quick conclusion: Prose would work well for a website team. Unless Cloudcannon fixes a few bugs, I’m not aware of anything that will work for clients.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Container housing &#8211; Right solution, wrong problem</title>
-        <link href="http://www.nobulbs.com/container-housing-right-solution-wrong-problem/"/>
-        <updated>2015-11-03T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/container-housing-right-solution-wrong-problem//</id>
-        <content type="html">&lt;p&gt;Impermanent, cheap housing isn’t new. Prefabs sprouted up around the country after the second world war, and some of them are still standing today, decades beyond their estimated 10 year lifespan.&lt;/p&gt;
-
-&lt;figure class=&quot;figure&quot;&gt;
-
-&lt;img src=&quot;/images/prefabs.jpg&quot; alt=&quot;Prefabs in Ipswich&quot; /&gt;
-
-&lt;figcaption class=&quot;figcaption&quot;&gt;A &amp;pound;160,000 prefab in Ipswich&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;Of course, we’re living in austere times again, albeit self-inflicted. Whereas there may have been some logic in building prefabs after the war, there’s no reason not to &lt;a href=&quot;http://www.hbf.co.uk/media-centre/facts-statistics/&quot;&gt;build proper houses now&lt;/a&gt;, beyond inertia, nimbyism and ideology.&lt;/p&gt;
-
-&lt;p&gt;The 2015 version of the prefab is a converted container. I imagine these may be an appropriate response to a very specific, short term need, such as ultra-cheap housing for homeless single people, or even students. I also suspect they appeal to urban designer types as they’re an inventive example of reuse. They’re also modular.&lt;/p&gt;
-
-&lt;figure class=&quot;figure&quot;&gt;
-
-&lt;img src=&quot;/images/containers.jpg&quot; alt=&quot;Converted container block&quot; /&gt;
-
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;p&gt;Converted containers in Brighton&lt;/p&gt;&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;Yet in Brighton, they’re merely &lt;a href=&quot;http://www.theguardian.com/cities/2015/oct/09/living-steel-box-shipping-containers-future-housing&quot;&gt;adding to the stock of expensive rented accommodation&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In Brighton, on the English south coast, developer QED struck a five-year deal with the Brighton Housing Trust (BHT) to install 36 shipping container homes on a former scrap metal yard. The cost of preparing the site and converting the old units cost QED £900,000 – around £25,000 per container. The charity now rents them out to “tenancy-ready” people stuck in hostels or sofa surfing with friends. At £650, the monthly rent is not cheap, but it is 75% of the market rate in Brighton.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Containers may seem a smart, inexpensive solution to a pressing problem, but that’s only the case when you’re failing miserably on so many other fronts: housing, for one, but also income, employment and the cost of living. And that’s all before you even tackle the question of  people living in metal boxes.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Old Zizek</title>
-        <link href="http://www.nobulbs.com/old-zizek/"/>
-        <updated>2015-10-27T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/old-zizek//</id>
-        <content type="html">&lt;p&gt;Even in &lt;cite&gt;Living in the End Times&lt;/cite&gt; Zizek strikes a modest tone when it comes to the idea of revolution. The book begins at a very specific time, between times almost, just before the Berlin Wall is about to fall. He tries to harness this spirit, picturing a revolution free from Stalin &lt;em&gt;and&lt;/em&gt; capitalism.&lt;/p&gt;
-
-&lt;p&gt;History grinds the left down. Here’s Zizek in fine, pessimistic form, looking for anywhere we can make a &lt;em&gt;real&lt;/em&gt; change:&lt;/p&gt;
-
-&lt;blockquote&gt;
-
-&lt;p&gt;I don’t see any historical guarantee that some big revolutionary event will happen. The only thing I’m certain of is that if nothing happens, we are slowly approaching — well, if not a global catastrophe, then a very sad society. Much more authoritarian, with new inner apartheids clearly divided into those who are in and those who are out.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Okay, maybe I should have asked, where would this change come from, if it were to emerge?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s not a specific place. I see potential spaces of tensions. For example, you have literally hundreds of thousands, maybe millions of students in Europe who are doing their studies. And they’re well aware that they don’t even have a chance of getting a job. &amp;#8212;&amp;thinsp;&lt;cite&gt;&lt;a href=&quot;http://www.salon.com/2015/10/11/slavoj_zizek_on_obama_bernie_sex_and_democracy_thats_the_reality_of_global_capitalism_everyone_is_violating_the_rules/&quot;&gt;Slavoj Zizek on Obama, Bernie, sex and democracy: &amp;#8220;That’s the reality of global capitalism. Everyone is violating the rules.&amp;#8221;&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you’re leftwing, over the age of 40 and maintain any relationship with reality, pessimism is a natural state. Not necessarily, like Zizek, at human nature itself; more at the possibility of being able to affect any change. As the decades pass you realise there’s nothing inevitable about anything, least of all the fall of capitalism.&lt;/p&gt;
-
-&lt;p&gt;Nietzsche’s objection to Marx was that he had a Christian, teleological view of the world. When you lose sight of paradise conservatism creeps in. Note Zizek’s views on Europe and immigration.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Haven't found it yet</title>
-        <link href="http://www.nobulbs.com/not-found-it-yet/"/>
-        <updated>2015-10-26T00:00:00+00:00</updated>
-        <id>http://www.nobulbs.com/not-found-it-yet//</id>
-        <content type="html">&lt;p&gt;So much to read into that May defeat. Yet no-one seems willing to &lt;q&gt;learn the hard lessons and make some tough decisions&lt;/q&gt;.&lt;/p&gt;
-
-&lt;p&gt;Firstly, the left. We all know Ian Nosferatu Smith is evil, Gideon wants to get rid of the state and the Tory party will &lt;em&gt;always&lt;/em&gt; reveal itself as the nasty party in the end. What we haven’t realised yet is that these aren’t reasons in and of themselves for enough people to vote Labour.&lt;/p&gt;
-
-&lt;p&gt;The last five years have been beyond anything else an exercise in finding out just how far up the economic ladder you can fuck over before you start losing votes. And the answer is &lt;em&gt;pretty fucking far&lt;/em&gt;. The lesson is quite simple: you can’t appeal to people’s better natures in order to get votes, you have to appeal to their fears and pockets.&lt;/p&gt;
-
-&lt;p&gt;While the Tories have appeared vaguely competent and dolled out a few bribes and promises of home ownership, the Labour left has waved its flags and gone on big marches. The morally right thing to do, but of limited use. Only once &lt;a href=&quot;/strange-popularity-of-george-osborne/&quot;&gt;the supposedly Machiavellian Gideon&lt;/a&gt; had the smart of idea of making 3 million voters hundreds of pounds worse off have the Tories looked vulnerable.&lt;/p&gt;
-
-&lt;p&gt;As Sunny said, &lt;a href=&quot;/labour-comms-purpose/&quot;&gt;the left has no idea of how to talk to people&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;But worse, far worse, is moderate Labour. As least the left is actually right about things.&lt;/p&gt;
-
-&lt;p&gt;What Cruddas, Danczuk et al have singularly, blockheadedly refused to learn is that the vast majority of Labour party members are sick of trying to appease austerity and xenophobia. This despite the fact that Jeremy Corbyn (yes, Jeremy Bloody Corbyn) got twice as many &lt;em&gt;party member&lt;/em&gt; votes in the leadership election than any other candidate, and was a single percentage point from getting an overall majority. Forget the three quiders; these are paid up, card carrying members telling the leadership that your job is to oppose austerity.&lt;/p&gt;
-
-&lt;p&gt;Instead of looking at how it might be possible to convert their members’ interests into votes, they simply try and interpret the current consensus, &lt;em&gt;never&lt;/em&gt; trying to change anything outside the party. You wonder how far right this consensus would have to swing before they actually came up with a counterargument.&lt;/p&gt;
-
-&lt;p&gt;But &lt;a href=&quot;http://www.theguardian.com/politics/2015/oct/25/corbyn-leadership-challenge-labour-mp-threatens-to-stand-if-may-elections-disappoint&quot;&gt;Danczuk apparently really believes he will get members to vote for someone like Chuka or Dan&lt;/a&gt; simply because they seem more reasonable than mad old Jeremy Corbyn. Meanwhile, Cruddas, another tactical mastermind, forms &lt;a href=&quot;http://www.theguardian.com/politics/2015/oct/24/jon-cruddas-osborne-appears-more-in-tune-with-north-of-england-than-labour&quot;&gt;a pro-austerity group within Labour&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;How will this end? In some ways you feel the Tories will, true to form, merrily commit suicide over tax credits or Europe. But there needs to be a cogent, credible opposition that can talk to people in terms they understand and trust. At the moment it’s hard to see where that’ll come from.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>New Old Labour Old New Danger</title>
-        <link href="http://www.nobulbs.com/new-old-labour-danger/"/>
-        <updated>2015-09-13T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/new-old-labour-danger//</id>
-        <content type="html">&lt;p&gt;I’m old enough to remember this:&lt;/p&gt;
-
-&lt;figure&gt;
-
-&lt;img src=&quot;/images/new-labour-new-danger.jpg&quot; alt=&quot;Poster of Tony Blair with New Labour New Danger caption&quot; /&gt;
-
-&lt;figcaption class=&quot;figcaption&quot;&gt;A pre-1997 Tory election poster&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;Got that wrong, the Tories. Not sure it’ll work with Corbyn, but would be sensible to quietly drop the leaving NATO staff…&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Murder in the cathedral &#8211; on Labour's tragedy (more Hamlet, really)</title>
-        <link href="http://www.nobulbs.com/murder-in-the-cathedral/"/>
-        <updated>2015-09-12T00:00:00+01:00</updated>
-        <id>http://www.nobulbs.com/murder-in-the-cathedral//</id>
-        <content type="html">&lt;p&gt;Maybe I’ll post something more cogent on Labour’s tragedy soon, but, as the players learn their fate and the clock hands approach 12, here are a few thoughts:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Andy Burnham’s problem was that nobody outside the “Westminster Bubble” uses the phrase “Westminster Bubble”.&lt;/li&gt;
-  &lt;li&gt;Liz Kendall’s problem was that she ignored the constituency and mouthed stuff about learning hard lessons; true enough, but they were the wrong lessons.&lt;/li&gt;
-  &lt;li&gt;Yvette Cooper’s problem was starting too slowly, too timidly; again, she hasn’t grasped the austerity nettle. But she is the best Middle England candidate, where she’ll be known simply as &lt;em&gt;Yvette&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Jeremy Corbyn’s great accidental strength was simply being against austerity. As such, hundreds of thousands projected their &lt;em&gt;desires&lt;/em&gt; onto an old hippy. None of the other candidates, to borrow a horrible business term, were &lt;em&gt;agile&lt;/em&gt; enough to realise this and adapt their message (Hamlet’s decadent court, if you like).&lt;/li&gt;
-  &lt;li&gt;Only Corbyn occupied the real, traditional, social/liberal democratic centre. That means he wins, which must be incredibly frustrating for those who thought they were the centre candidate.&lt;/li&gt;
-  &lt;li&gt;3 quid voters won’t win a general election.&lt;/li&gt;
-  &lt;li&gt;Jeremy Corbyn – one of too many jesters – won’t win a general election.&lt;/li&gt;
-  &lt;li&gt;Ed Miliband (another jester) made a fatal error, but it just may save the Labour party because it will have to bury and overcome its recent history (your tragedy’s ghosts).&lt;/li&gt;
-  &lt;li&gt;Loyal and hardy footsoldiers were actually leafleting during the high tragedy.&lt;/li&gt;
-  &lt;li&gt;The best hope for Labour is that the whole tragedy (or farce) does indeed end in a  good old bloodbath. From the ashes rises a proper leader of the old centre, who slays Brown Blairite ghosts and the hippy king. Your Fortinbras.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;All these organisational impulses are fundamentally nihilistic. Not in the sense that Yog Soggoth wants to destroy everything and will remove all human presence from the world, but in the Nietzschean way of failing to face up to senseless reality.&lt;/p&gt;
 </content>
     </entry>
     
